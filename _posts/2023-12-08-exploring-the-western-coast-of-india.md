@@ -10,20 +10,16 @@ carousels:
     - image: /assets/img/post_1/day_3_3.jpg
     - image: /assets/img/post_1/day_3_4.jpg
     - image: /assets/img/post_1/day_3_5.jpg
-    - image: /assets/img/post_1/day_3_6.jpg
-    - image: /assets/img/post_1/day_3_7.jpg
   - images: 
     - image: /assets/img/post_1/day_4_1.jpg
     - image: /assets/img/post_1/day_4_2.jpg
     - image: /assets/img/post_1/day_4_3.jpg
     - image: /assets/img/post_1/day_4_4.jpg
     - image: /assets/img/post_1/day_4_5.jpg
-    - image: /assets/img/post_1/day_4_6.jpg
   - images: 
     - image: /assets/img/post_1/day_5_1.jpg
     - image: /assets/img/post_1/day_5_2.jpg
     - image: /assets/img/post_1/day_5_3.jpg
-    - image: /assets/img/post_1/day_5_4.jpg
   - images: 
     - image: /assets/img/post_1/day_8_1.jpg
     - image: /assets/img/post_1/day_8_2.jpg
@@ -40,8 +36,6 @@ carousels:
     - image: /assets/img/post_1/day_12_1.jpg
     - image: /assets/img/post_1/day_12_2.jpg
     - image: /assets/img/post_1/day_12_3.jpg
-    - image: /assets/img/post_1/day_12_4.jpg
-    - image: /assets/img/post_1/day_12_5.jpg
   - images: 
     - image: /assets/img/post_1/return_day_2_1.jpg
     - image: /assets/img/post_1/return_day_2_2.jpg
@@ -97,19 +91,19 @@ The ride from Vapi to Alibaug was amazing. Saw a lot of riders along the way. Th
 
 The next morning it was raining again. I planned on leaving at 6 but waited for the rain to subside and left at 7. There was a light drizzle when I left and after that it didn't rain one drop. I got on the old Mumbai Goa Highway(NH 66) and it was amazing for the most part. A few rough patches but the weather was nice and the views were good. Green fields just beside the road and mountains with low flying clouds behind them. At Mahad, I got off the highway and took the inner route to Dapoli. What followed was quite possibly the best ride of my life. For the next 50 kms, it was mostly just me and my bike. I went up and down some hills, around some twists and turns, rode through lush green grasslands, and saw some amazing views. I barely encountered any humans along the way. Eventually I reached Dabhol and took a small ~10 minute ferry ride to the other side. There aren't a lot of bridges closer to the ocean so ferrys are the go to mode of transport along the coast. Reached Guhagar soon after the ferry ride. It's a small town with a nice clean beach. I stayed at a place called The Woods, which is a house made entirely of wood. It's not common in India to have wooden houses. The house was beautiful and the hosts were amazing as well. Later I took my bike out and rode it a little on the beach. It was something I had always wanted to do. The bike was sinking a little so I couldn't do it for long. I need to try it again with some more technique. Then I went up the hill to watch the sunset. I found a view point form where I could see the entire beach. It was calm and serene. I ended the day with cleaning and lubing my bike's chain as it had already been way more than 500 kms at this point. 
 
-{% include carousel.html height="70" unit="%" duration="7" number="1" %}
+{% include carousel.html height="70" unit="%" number="1" %}
 
 #### Day 4. Guhagar to Malvan
 
 The ride from Guhagar to Malvan was fantastic, especially towards the end. It was all lush green fields. I wanted to just sit there and gaze into the distance. I wish I had a small stove with me. This was a nice place to cook some food and just chill. I moved ahead and reached Malvan. I didn't actually stay in Malvan but rather a bit above it at Talashil Beach. It isn't a very touristy spot. It's like a river delta with the river Gad on one side and the Arabian Sea on the other. It's a narrow strip of land with a few homestays. They had just had a storm there 2 days ago. There were zero tourists when I went there. The weather was great and I had the beach all to myself. It was peaceful. I booked a homestay here called Shree Ram Homestay which was right in front of the beach. The host made some delicious local home cooked food. It was one of the best meals of the trip. The highlight was solkadi, a digestive drive made of coconut milk and kokum, which he made using fresh coconuts from right outside the house. I had a lot of different versions of solkadi on this trip but this one was the best. The next morning, I was a bit surprised when the host woke me up at 5.30 and asked me if I wanted to see dolphins. I walked out on to the beach and there they were, dolphins just some 100 odd metres from the shore jumping around. The host told me since there aren't a lot of tourists here the dolphins come closer to the shore. After that I packed up my stuff and headed to Goa.
 
-{% include carousel.html height="70" unit="%" duration="7" number="2" %}
+{% include carousel.html height="70" unit="%" number="2" %}
 
 #### Day 5. Malvan to North Goa
 
 From here it was mostly shorter rides. The weather was in my favour again, clear skies. On the way from Malvan, I encountered some more secluded grasslands. After a while, in the middle of nowhere, I saw a long boundary wall with a road going parallel to it. It turns out I was riding alongside the Sindhudurg Airport. With clear blue skies, an airport on one side, green grass on the other, and no humans in sight, I stood up on my bike. For the next few kilometres I rode my bike while standing up on the footpegs, visor open. It was an amazing feeling. Definitely one of the most memorable parts of the journey. Eventually I left the fields behind and entered Goa. The stay in North Goa was uneventful. I just got some rest after a few long days of riding. 
 
-{% include carousel.html height="70" unit="%" duration="7" number="3" %}
+{% include carousel.html height="70" unit="%" number="3" %}
 
 #### Day 6,7. North Goa to South Goa, South Goa
 
@@ -119,25 +113,25 @@ I encountered some bad weather on this part of the journey and got completely dr
 
 This was again a short ride. The Zostel in Gokarna is located on a cliff overlooking the beach. Right outside the dorm rooms, you have deck chairs overlooking the ocean. The view from there is amazing. I did a morning trek here which covers all the beaches, a sunset trek which has some of the best views of the trip and played some beach volleyball which was a lot of fun. The live music here was again incredible. These were a few relaxing days. I ate some amazing Banana Buns at Dattaprasad Tiffin Canteen. One of the best foods I ate on the entire journey. The Chicken Fried Rice and Meat Loaded Fried at Mantra Cafe at the Zostel were also very good. I cleaned and lubed my bike's chain again here and headed to Udupi.
 
-{% include carousel.html height="70" unit="%" duration="7" number="4" %}
+{% include carousel.html height="70" unit="%" number="4" %}
 
 #### Day 10. Gokarna to Udupi
 
 The road from Gokarna to Udupi was a straight highway all along. I booked a homestay near Kaup beach. In the evening I took my bike bike for a ride. I road alongside the beach towards North for around half an hour. I didn't get to explore Udupi much. Just went back to the homestay, ordered some food and slept.
 
-{% include carousel.html height="70" unit="%" duration="7" number="5" %}
+{% include carousel.html height="70" unit="%" number="5" %}
 
 #### Day 11. Udupi to Mangalore
 
 It was again a short ride. I had booked an Airbnb there. Out of all the places, Udupi and Mangalore were the 2 places where I had difficulty finding affordable accommodation. In the afternoon I went out for some food. I ate Chicken Sukkha and Neer Dosa. It was delicious. Then I took my bike up the hill to the Mangalore view point. The road up the hill was full of gravel but the view on the top was good. Some green grass patches up top looked really peaceful. In the evening I ordered some food at the Airbnb and took some rest. One thing that surprised me was that the locality I stayed in had a set time for electricity maintenance for a few hours once every week. 
 
-{% include carousel.html height="70" unit="%" duration="7" number="6" %}
+{% include carousel.html height="70" unit="%" number="6" %}
 
 #### Day 12. Mangalore to Bangalore via Kudremukh & Chikmagalur
 
 I was up early but had to delay my ride a bit because of the rain. I started an hour or two later than I usually did. Originally the plan was to drive to Chikmagalur. I had a few route options. I decided to take the longer route through Kudremukh National Park. You need to take a free permit from the authorities before you enter the National Park. They give you a small tag that you have to return when you exit. You get like an hour to cross the national park. The roads are small and not very well maintained. The weather was gloomy and cold. The roads were dead quiet and you aren't supposed to stop as there is wildlife present there. Occasionally I'd encounter a truck or a bike but for the most part it was me driving alone. The views in the national park were good but the roads were terrible. It was all blooming green with some low flying clouds. Eventually I got out of the National Park and reached Chikmagalur at around 12PM. I had planned to stay there for 2 days but ended up riding to Bangalore as my friends had already reached there. The ride from Chikmagalur to Bangalore was around 5 hours. It was smooth roads and highways all along. I encountered some bad weather just before Bangalore but I saw the dark clouds coming in and had already donned the rain gear that I was carrying. This was the longest ride of my life. I rode for 10 hours straight with just a few snack breaks. I was tired. Finally, on the 12th day of my journey, some 2300 odd kms later, I reached Bangalore at 5PM on the 11th of October 2023.
 
-{% include carousel.html height="70" unit="%" duration="7" number="7" %}
+{% include carousel.html height="70" unit="%" number="7" %}
 
 Now it was some time for rest and recuperation.
 
@@ -151,7 +145,7 @@ I stayed in Bangalore for around 10 days with some friends. Now it was time to h
 
 I started early in the Morning at around 5.30AM but had to slow down and halt because of the fog. The visibility was terrible. I could barely see beyond 10 metres or so. The fog took around 2 hours to clear up. The roads were pristine. I made it to Satara before sunset and took some rest. 
 
-{% include carousel.html height="70" unit="%" duration="7" number="8" %}
+{% include carousel.html height="70" unit="%" number="8" %}
 
 #### Day 3. Satara to Mumbai
 
