@@ -188,10 +188,6 @@ This was the last day of my trip. It's a straight highway from Mumbai to Vadodar
 			<td>&nbsp;Days of Riding</td>
 			<td>14</td>
 		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
 	</tbody>
 </table>
 
