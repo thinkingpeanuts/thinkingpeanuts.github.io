@@ -14,27 +14,27 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Thinking Peanuts # the main title
+title: Six Amps # the main title
 
-tagline: Motorcycles, Music and Life # it will display as the sub-title
+tagline: Revs & Rust # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Motorcycles, Music and Life.
+  Revs & Rust
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://thinkingpeanuts.github.io"
+url: "https://www.sixamps.com"
 
 github:
-  username: thinkingpeanuts # change to your github username
+  username: sixamps # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: sixamps # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Thinking Peanuts
+  name: Voyager 3
   email: thinkingpeanuts@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
