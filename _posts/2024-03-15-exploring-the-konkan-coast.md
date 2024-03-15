@@ -1,7 +1,7 @@
 ---
-title: Exploring the western coast of India - A 4000km maiden solo motorcycle road trip
-date: 2023-12-08 22:35:00 +0530
-categories: [mototrip]
+title: Exploring the Konkan Coast - A 4000km motorcycle expedition
+date: 2024-03-15 21:20:00 +0530
+categories: [moto expeditions]
 #tags: [tag]     # TAG names should always be lowercase
 carousels:
   - images: 
@@ -41,11 +41,11 @@ carousels:
     - image: /assets/img/post_1/return_day_2_2.jpg
 ---
 
-I just got back from my first solo road trip. It was around 4000 kms in total. If I had to summarise in one word, it would be - Incredible.
+I just got back from my first solo motorcycle road trip. It was around 4000 kms in total. If I had to summarise in one word, it would be - incredible.
 
 I read this quote somewhere, "God didn’t create metal so that man could make paper clips." Makes sense when you think about how many precise parts it takes to move in sync for you to ride a motorcycle. Humans are always pushing limits. It's a testament to the human spirit of adventure and exploration. 
 
-It's not the cheapest way to travel, it's not the fastest and it's definitely not the most comfortable but it is the most fun.<br>
+Riding a motorcycle is not the cheapest way to travel, it's not the fastest and it's definitely not the most comfortable but it is the most fun.<br>
 If you want to travel fast, catch a plane.<br>
 If you want to travel on a budget, take the train.<br>
 But if you want to explore - ride.
@@ -82,7 +82,7 @@ Here is an excerpt from "Zen and the Art of Motorcycle Maintenance" by Robert M.
 *On a cycle the frame is gone. You're completely in contact with it all. You're in the scene, not just watching it anymore, and the sense of presence is overwhelming. That concrete whizzing by five inches below your foot is the real thing, the same stuff you walk on, it's right there, so blurred you can't focus on it, yet you can put your foot down and touch it anytime, and the whole thing, the whole experience, is never removed from immediate consciousness."*
 
 
-## Journey > Destination ? || Journey + Destination = Experience
+## Journey > Destination || Journey + Destination = Experience
 
 This trip reinforced my mind that the journey is better than the destination if not equally important. Everyday after riding for hours on end, whenever I got to my destination, it felt good to rest for a couple of hours. But after that, all I wanted to do was get back on the road and ride some more. Some destinations were almost boring and I couldn't wait to get up the next morning. This journey definitely fixed my terrible sleep schedule. Maybe it was just this trip that I felt that way because one my purposes was to get away from the hustle. When you're on the road, in the meadows, there's no one around you. It's just you, your motorcycle and the sweet sound of your motorcycle's engine. The things I experienced on the ride were almost always better than when I reached my destination each evening. I might feel different after some other trip but it depends on where I'm touring I guess. The more I think about it there more I feel it's all about the experience. Some destinations might be worth it. So I believe equal importance should be given to both. Rushing through just to get to where I was going would have made me miss the best parts of the trip. 
 
