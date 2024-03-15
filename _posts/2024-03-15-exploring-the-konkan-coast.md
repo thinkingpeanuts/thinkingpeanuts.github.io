@@ -73,7 +73,7 @@ I recommend watching these two videos by Ryan from FortNine.
 <center><font size="+2"><i>"Freedom is on the other side of captivity."</i></font></center>
 
 <br>
-It could mean different things to different people. It depends on what's keeping you captive. For many, motorcycling is freedom from the rut in their daily life. When you get on a motorcycle, you forget all your worries and focus just on the ride. For some, it's freedom of choice. Some roads are only accessible on two wheels. Likewise your definition might vary. You get to decide what motorcycling frees you from. It is the most engaging form of travel.
+It could mean different things to different people. It depends on what's holding you captive. For many, motorcycling is freedom from the rut in their daily life. When you get on a motorcycle, you forget all your worries and focus just on the ride. For some, it's freedom of choice. Some roads are only accessible on two wheels. Likewise your definition might vary. You get to decide what motorcycling frees you from. It is the most engaging form of travel.
 
 Here is an excerpt from "Zen and the Art of Motorcycle Maintenance" by Robert M. Pirsig,
 
