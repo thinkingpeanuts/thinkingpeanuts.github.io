@@ -16,10 +16,10 @@ timezone: Asia/Calcutta
 
 title: Six Amps # the main title
 
-tagline: Revs & Rust # it will display as the sub-title
+tagline: Tales from my travels # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Revs & Rust
+  Tales from my travels
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
