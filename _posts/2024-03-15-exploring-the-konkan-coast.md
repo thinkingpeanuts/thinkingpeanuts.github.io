@@ -41,7 +41,7 @@ carousels:
     - image: /assets/img/post_1/return_day_2_2.jpg
 ---
 
-I just got back from my first solo motorcycle road trip. It was around 4000 kms in total. If I had to summarise in one word, it would be - incredible.
+I just got back from my maiden solo motorcycle trip. It was around 4000 kms in total and if I had to summarise it in one word, it would be - incredible.
 
 I read this quote somewhere, "God didn’t create metal so that man could make paper clips." Makes sense when you think about how many precise parts it takes to move in sync for you to ride a motorcycle. Humans are always pushing limits. It's a testament to the human spirit of adventure and exploration. 
 
