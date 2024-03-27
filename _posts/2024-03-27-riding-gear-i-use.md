@@ -50,7 +50,7 @@ Top
 Bottom
 
 <ul>
-<li>Rynox AirTex Pants</li>
+<li>Viaterra Austin Daily Riding Jeans</li>
 <li>Decathlon Socks</li>
 <li>RE x TCX WP Cabo Shoes</li>
 </ul>
