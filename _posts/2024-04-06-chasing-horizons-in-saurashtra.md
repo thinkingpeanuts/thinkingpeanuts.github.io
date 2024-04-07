@@ -61,8 +61,9 @@ It was a little cold in the morning when I started. I felt it more because of th
 
 ## Day 5. Gir to Vadodara
 
-I started early again in an effort to avoid the afternoon heat. On my way, I came across an interesting village called Jambur. It has been home to members of the African-origin Siddi tribe for centuries now. They have an African appearance and since they've been here for a long time, they speak perfect Gujarati. Another
-thing I noted here was a recurring picture of a man drinking tea. I started noticing this particular picture a few days ago. It was everywhere. A lot of the tea shops in Saurashtra have this same picture on their sign boards. After I got back home I did some digging and found some interesting things about this picture and it's origin. I'm writing a dedicated blog post about it and will link it here when done.
+I started early again in an effort to avoid the afternoon heat. On my way, I came across an interesting village called Jambur. It has been home to members of the African-origin Siddi tribe for centuries now. They have an African appearance and since they've been here for a long time, they speak perfect Gujarati. Another thing I noted here was a recurring picture of a man drinking tea. I started noticing this particular picture a few days ago. It was everywhere. A lot of the tea shops in Saurashtra have this same picture on their sign boards. After I got back home I did some digging and found some interesting things about this picture and it's origin. I'm writing a dedicated blog post about it and will link it here when done. Here's the picture in question.
+
+![Route](/assets/img/24-03-Saurashtra/var.jpg)
 
 I soon reached Sasan Gir. From here I rode through the Gir National Park towards Visavadar. As it was the start of summer, things had started drying up. This entire stretch has no paved roads. It's a rough ride but it's rewarding. The trail is surrounded by trees and a few small lakes along the way. There's even a train track through there and I did see a train going by. The roads from here were great as well. I saw some desert like terrain and explored it a bit before getting back on the road. This leg of the journey was more of what I was looking for in terms of country roads and small villages. I rode along more fields than I can count and soon, I was back home.
 
