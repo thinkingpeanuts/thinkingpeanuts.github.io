@@ -2,6 +2,7 @@
 layout: post
 title: Motorcycle Riding Gear I Use
 date: 2024-03-27 21:09 +0530
+categories: [riding gear]
 ---
 
 This is a list of motorcycle riding gear I use.

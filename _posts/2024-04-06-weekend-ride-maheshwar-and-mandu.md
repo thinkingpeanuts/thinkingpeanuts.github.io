@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weekend Ride: Maheshwar and Mandu'
+title: 'Weekend Ride to Maheshwar and Mandu'
 date: 2024-04-06 20:07 +0530
 categories: [moto expeditions]
 carousels:
@@ -20,7 +20,7 @@ carousels:
 
 ---
 
-It all started with a friend sending me a post on instagram. It was about 3 day ride to Manheshwar and Mandu in Madhya Pradesh. It was a group ride organised by Nishant Jha for his new venture called <a href = "https://www.instagram.com/ontheroadrides">On The Road Rides</a>. He is an experienced rider and traveller. This was the first guided ride for his new venture and we were 4 riders in total.
+It all started with a friend sending me a post on Instagram. It was about 3 day ride to Maheshwar and Mandu in Madhya Pradesh. It was a group ride organised by Nishant Jha for his new venture called <a href = "https://www.instagram.com/ontheroadrides">On The Road Rides</a>. He is an experienced rider and traveller. This was the first guided ride for his new venture and we were 4 riders in total.
 
 This is a rough outline of the route we took to Maheswar and back.
 
