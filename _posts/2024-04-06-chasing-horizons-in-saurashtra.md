@@ -61,7 +61,7 @@ It was a little cold in the morning when I started. I felt it more because of th
 
 ## Day 5. Gir to Vadodara
 
-I started early again in an effort to avoid the afternoon heat. On my way, I came across an interesting village called Jambur. It has been home to members of the African-origin Siddi tribe for centuries now. They have an African appearance and since they've been here for a long time, they speak perfect Gujarati. Another thing I noted here was a recurring picture of a man drinking tea. I started noticing this particular picture a few days ago. It was everywhere. A lot of the tea shops in Saurashtra have this same picture on their sign boards. After I got back home I did some digging and found some interesting things about this picture and it's origin. I'm writing a dedicated blog post about it and will link it here when done. Here's the picture in question.
+I started early again in an effort to avoid the afternoon heat. On my way, I came across an interesting village called Jambur. It has been home to members of the African-origin Siddi tribe for centuries now. They have an African appearance and since they've been here for a long time, they speak perfect Gujarati. Another thing I noted here was a recurring picture of a man drinking tea. I started noticing this particular picture a few days ago. It was everywhere. A lot of the tea shops in Saurashtra have this same picture on their sign boards. After I got back home I did some digging and found some interesting things about this picture and its origin. I'm writing a dedicated blog post about it and will link it here when done. Here's the picture in question.
 
 ![Route](/assets/img/24-03-Saurashtra/var.jpg)
 
