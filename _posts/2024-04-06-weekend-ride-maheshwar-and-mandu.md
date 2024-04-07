@@ -24,7 +24,7 @@ It all started with a friend sending me a post on Instagram. It was about 3 day 
 
 This is a rough outline of the route we took to Maheswar and back.
 
-Vadodara - Dabhoi - Chota Udepur - Alirajpur - Kukshi - Maheshwar - Mandu - Vadodara
+Vadodara - Dabhoi - Chhota Udepur - Alirajpur - Kukshi - Maheshwar - Mandu - Vadodara
 
 ![Route](/assets/img/24-03-Maheshwar/route.jpg)
 
