@@ -5,7 +5,7 @@ date: 2024-03-27 21:09 +0530
 categories: [riding gear]
 ---
 
-This is a list of motorcycle riding gear I use.
+This is a list of motorcycle riding gear I use. You can click on some of them to see a detailed review.
 
 ## Touring
 
