@@ -41,7 +41,7 @@ Here they are compared to my other riding boots (RE x TCX Cabo WP) and some regu
 
 {% include carousel.html height="70" unit="%" number="2" %}
 
-## Wearing them
+## Using them
 
 {% include carousel.html height="70" unit="%" number="3" %}
 
