@@ -7,8 +7,6 @@ categories: [motorcycle]
 
 In May of 2023, an idea popped up in my head - I should buy a new motorcycle. This would be my first own motorcycle. I had used my cousin's Honda Shine 125 for a few years in and after college and loved it. Early in 2023, my cousin needed it back, so I was left motorcycle-less. After riding my family's Honda Activa around for a few weeks, I absolutely detested its ride quality and the idea of buying a new motorcycle started gaining more and more traction.
 
-You can skip directly to the review  by clicking <a href="#first-leg">here.</a>
-
 Traditional wisdom suggested I buy a motorcycle after the monsoon so I wouldn't have to keep it parked away, because of the weather, and so that I could keep it clean. It meant I had to delay my purchase to October. Another common suggestion is to avoid buying a vehicle near the end of the year. Waiting a little and buying at the start of the next year would mean a newer model year, which would help with the resale value. I chose to ignore the second argument as I had no plans of selling this motorcycle. The first argument soon tuned invalid too as I thought about my plans with this new motorcycle. I wanted to tour. That was the whole point of this motorcycle. I didn't actually <i>need</i> a new motorcycle. I wanted one. And I wanted it so bad that it became a need but I digress. I had this rough idea in my head where I wanted to ride my motorcycle to Bangalore. I wanted to travel after the monsoon, to avoid the bad weather and to travel through some lush green mountains and meadows in the western ghats. This would mean I would have to travel sometime in October. So I would need my motorcycle before that. Not only that but I would need my motorcycle to be broken in by October. Which meant I had to get it at least af few months before October. And with waiting times of a few weeks on some motorcycles, it was almost the correct time to buy one, or at least start the process of selection. I had to do my research, choose a motorcycle and save up for it. All of this was would take some time so without any further ado, I dove head first into the world of motorcycles.
 
 
@@ -31,6 +29,8 @@ With these points in mind, I started my research on YouTube and Reddit. After nu
 It was Friday, July the 7th - M.S Dhoni's birthday, when I got the call. My bike was here. I logged off from work early, went to the showroom and there it was, in matt grey, looking absolutely gorgeous. I could take delivery the same day. I went around the bike, checked some things here and there and ticked off stuff from the PDI list that I made. I took a test ride and it was perfect. Except that the speedometer wasn't working. I asked the salesman upon my return and he said something along the lines of disconnecting the sensor so the bike stays at 0 kms. It's a shady practice. I did notice one more thing. The ignition was acting weird when turing right and the bike would turn off if I pushed the key too far right. This shouldn't be like this. I showed it to the salesman and he said just don't push it that far. This was a stupid and unsatisfactory response. I tried it a few more times and the problem seemed to go away. There were also some tiny surface level rust spots on the frame of the bike. I confronted the salesman about them and they said it's like that on all bikes, which it was. They spray painted some tiny spots before I took delivery and reassured me if I find more, they will be fix them in the first service. They even made me do a Google Maps review of the showroom right there which is not the way it works. Overall the showroom experience was luke warm at best. I paid the full amount, completed all the formalities and headed home. The weather that evening was perfect - cloudy with some light rain. The ride back home was incredible.
 
 This is the first picture I took of my new bike the day I got her.
+
+![Route](/assets/img/honda-review/first.jpg)
 
 ## Living with my new Honda
 
@@ -56,7 +56,8 @@ I got a mud flap installed on the engine side just in front of the rear tyre. Wi
 
 I was about to go on my first long tour exploring the Konkan. Before leaving, I got my bike checked at the service center. My bike had run 2763 km by now. There were no other issues with the bike expect the ignition thing. I was billed for a total of 1727 rupees. This included some spare parts for my upcoming trip. I bought a spare mirror and extra clutch and throttle levers. I also got a seat cover.
 
-I went on a 4000 km solo motorcycle trip through the Konkan after this. You can read more about it here - <a href = "{% post_url 2024-03-15-exploring-the-konkan-coast %}">Exploring the Konkan Coast</a>
+I went on a 4000 km solo motorcycle trip through the Konkan after this. You can read more about it here - <a href = "{% post_url 2024-03-15-exploring-the-konkan-coast %}">Exploring the Konkan Coast.</a> Here's a picture from the trip.
+![Route](/assets/img/honda-review/konkan.jpg)
 
 ## Service 2
 
@@ -66,8 +67,8 @@ Midway through my trip I was staying in Bangalore for a week. My motorcycle had 
 
 I had my third service done at 10442 kms, right before my trip to Saurashtra. The front fender, which is non-metal, was cracked because of the screws that held together the extender. I got the entire fender replaced with a longer metal one, with an extender already attached. I assume this one is for the Hness. I also got the brake lever replaced as it had bent from when I dropped the bike back in my Kutch trip. I had parked the bike on some uneven ground on the Road to Heaven in Kutch. I was trying to get to some luggage and in the process dropped the bike. The only damage was the brake lever getting bent and a few minor scratches on the leg guard. The total including the oil change came out to 5623 rupees. 
 
-I went on a trip to Saurashtra after this. You can read about it here - <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">Chasing Horizons in Saurashtra</a>
-
+I went on a trip to Saurashtra after this. You can read about it here - <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">Chasing Horizons in Saurashtra.</a> Here's a picture from the trip.
+![Route](/assets/img/honda-review/saurashtra.jpg)
 ## Checkup 2
 
 During my Saurashtra trip, my bike suddenly started losing power and mileage had clearly dropped. For the first time ever, the mileage dropped below 30. At one point it dropped to as low as 24. The bike had a noticeable power drop as well. I was able to complete my trip though so that was good. Upon my return, I got my bike checked at the service center. They cleaned the air filter, checked the spark plug and some other things. The bike was again back to normal. There was some black sludge that dropped near the center stand but I assume that was just some extra grease that had dripped down so I cleaned it up myself and it didn't happen again.
@@ -83,27 +84,38 @@ I was on a <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">
 As I'm writing this, I've done over 13,000 kilometres in a little over 9 months and I've thoroughly enjoyed every moment. The bike rides just as smooth as day one. Even though I don't have a commute, I take her out almost daily. I've done 4 long tours on it and I'm planning to explore the entire country on my Honda.
 
 
+## Service Costs
 
-ahmedad accident
-saree guard
-dholavira bent lever
+<table>
+<tbody>
+<tr>
+<td></td>
+<td>Cost</td>
+<td>Notes</td>
+</tr>
+<tr>
+<td>Service 1</td>
+<td>2299</td>
+<td>oil change, front fender extender, rear mudflap</td>
+</tr>
+<tr>
+<td>Checkup 1</td>
+<td>1727</td>
+<td>seat cover, spare levers and spare mirror</td>
+</tr>
+<tr>
+<td>Service 2</td>
+<td>2317</td>
+<td>oil change, lock set replace(under warranty)</td>
+</tr>
+<tr>
+<td>Service 3</td>
+<td>5623</td>
+<td>oil change, spare clutch cable, front fender & brake lever replaced</td>
+</tr>
+</tbody>
+</table>
 
-showroom expierence
-bikes test ridden, showroom expierience for them as welll
-why i didnt chose those bikeswhy i chose rhonda
-mileage drop after 3rd service
+## Extras
 
-14/03/2024
-
-front fender carbon then full replace
-right lever replaced
-
-
-7th July 2024
-dhoni bday
-
-Accidents list
-
-stats costs service petorl things changed etc
-
-mudguard 399
+I've had 3 small mishaps with the bike. The first one was when a guy riding an Activa read ended me in Ahmedabad. I was on my bike standing still in a lot of traffic and he was trying to cut through it by riding into any space that he could find. He didn't even acknowledge it, just looked at me for a second, and ran away cutting through the stagnant traffic. The second one happened the day I left Bangalore on my Konkan trip to come back home. A guy was constantly looking at his phone while riding an Activa. When I usually see people like these, I just avoid them and ride far away from them. I did the same this time and overtook him. A few minutes later, I was stopped on the road due to traffic and suddenly the same guy crashed into my bike. When I confronted him, he said he was looking at the map on his phone. I let it go and went on my way. The entire front right of his Activa was mangled and my bike didn't even get a scratch. It was saved by the saree guard and to think of it I almost removed it before this trip. Things have a weird way of working out. The third time I had my bike parked on some uneven ground on the Road to Heaven in Kutch. I got something out of my bag in the back and turned around while accidentally dropping the bike. The front brake lever got bent and there were some minor scratches on the leg guard. Thankfully there was no major damage and I got the brake lever replaced in the next service.
