@@ -106,7 +106,7 @@ As I'm writing this, I've done over 13,000 kilometres in a little over 9 months 
 <tr>
 <td>Service 2</td>
 <td>2317</td>
-<td>oil change, lock set replace(under warranty)</td>
+<td>oil change, lock set replaced(under warranty)</td>
 </tr>
 <tr>
 <td>Service 3</td>
