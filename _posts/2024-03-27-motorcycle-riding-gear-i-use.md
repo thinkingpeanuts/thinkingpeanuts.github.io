@@ -29,7 +29,7 @@ Bottom
 <li>Decathlon Padded Cycling Shorts</li>
 <li>Rynox Vapour Pro Base Layer - Lower</li>
 <li>Raida CoolMax Knee Length Socks</li>
-<li>Raida TrailCraft Boots</li>
+<li><a href = "{% post_url 2024-04-08-raida-trailcraft-motorcycle-boots-review %}">Raida TrailCraft Motorcycle Boots</a></li>
 </ul>
 
 ## City Rides
