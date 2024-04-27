@@ -21,3 +21,5 @@ This is a repository of all the content on my website.
 ## Motorcycle Touring Guides
 
 * <a href = "{% post_url 2024-03-27-motorcycle-riding-gear-i-use %}">Riding Gear I Use</a>
+* <a href = "{% post_url 2024-04-15-motorcycle-luggage-packing-guide %}">How I pack luggage for a motorcycle tour</a>
+* <a href = "{% post_url 2024-04-15-motorcycle-preparation-for-touring %}">How I prepare my motorcycle for a tour</a>
