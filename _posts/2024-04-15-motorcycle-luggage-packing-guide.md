@@ -10,10 +10,29 @@ carousels:
 
 Here is how I pack for a motorcycle tour. This is a superset of things I carry with me. I pick and choose things from these based on the destination, duration and the time of the year. I keep a track of what items I pack in what bag and keep that list on my phone so I can get to things quicker. There is a linked spreadsheet which you can use to keep track of things. I've tried to make this list as exhaustive as possible. You might not need all of these so you can pick and choose what you want.
 
-## How to use the Packing Guide
-List your luggage bags in cells
-click on button
+## How to use this Packing Guide
 
+I have linked a custom spreadsheet that I use to help me pack. To use this sheet, you'll need Libre Office Calc which is an open source alternative to Microsoft Excel. When you open the file, you'll get a pop up asking if you want to enable macros. This sheet uses some custom macros to help you manage and track you belongings. Here's how to use it.
+
+Prerequisites: <a href = "https://www.libreoffice.org/download/download-libreoffice/">Libre Office Calc</a>
+
+1. Download the sheet by clicking <a href = "{{ site.url }}/downloads/Packing Guide.ods">HERE.</a>
+2. Open the sheet. You'll see a pop up asking you to "Enable Macros". If you don't enable Macros, some functions will not work.
+3. You can list down up to 5 names bags in cells A8 to A12. Each bag is represented by a different colour.
+![Guide1](/assets/img/guide-luggage/guide_1.jpg)
+
+4. There are 4 columns for each item. 
+    1. First column has the item name. 
+    2. The second column changes background based on which bag the item is stored in. By default the cells are black which means you have not packed the item yet. 
+    3. Clicking on a cell in this column presents a down arrow, clicking on which gives you a dropdown with a list of your bags. Pick the bag in which you place the item and the previous cell will automatically change colour based on the bag colour listed in Cells B8 to B12.
+    4. The 4th column is a section for "Notes". You can use this to list where in the bag you have stored the item.
+    
+    Here is a sample of the sheet partially filled in.
+    ![Guide2](/assets/img/guide-luggage/guide_2.jpg)
+5. Clicking on the "Clear All" button will clear all the entries and reset the sheet.
+6. I have added a list of items that are usually carried on motorcycle trips. There is also a section called "EXTRAS" where you can add other items that you may want to add to the list.
+
+You can export this sheet as a pdf or click a picture on your phone on your phone so you can quickly look where certain items are.
 
 ## On my motorcycle
 
@@ -205,5 +224,6 @@ label quick access items
 
 
 check list and label things as quick access make legend
+change colou rof quick access items
 
 
