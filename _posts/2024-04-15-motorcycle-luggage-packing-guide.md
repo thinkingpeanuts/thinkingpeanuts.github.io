@@ -12,7 +12,7 @@ Here is how I pack for a motorcycle tour. This is a superset of things I carry w
 
 ## How to use this Packing Guide
 
-I have linked a custom spreadsheet that I use to help me pack. To use this sheet, you'll need Libre Office Calc which is an open source alternative to Microsoft Excel. When you open the file, you'll get a pop up asking if you want to enable macros. This sheet uses some custom macros to help you manage and track you belongings. Here's how to use it.
+I have linked a custom spreadsheet that I use to help me pack. It has a list of items commonly carried on motorcycle tours and a section where you can add items which are not already included.  To use this sheet, you'll need Libre Office Calc which is an open source alternative to Microsoft Excel. When you open the file, you'll get a pop up asking if you want to enable macros. This sheet uses some custom macros to help you manage and track you belongings. Here's how to use it.
 
 Prerequisites: <a href = "https://www.libreoffice.org/download/download-libreoffice/">Libre Office Calc</a>
 
@@ -24,7 +24,7 @@ Prerequisites: <a href = "https://www.libreoffice.org/download/download-libreoff
 4. There are 4 columns for each item. 
     1. First column has the item name. 
     2. The second column changes background based on which bag the item is stored in. By default the cells are black which means you have not packed the item yet. 
-    3. Clicking on a cell in this column presents a down arrow, clicking on which gives you a dropdown with a list of your bags. Pick the bag in which you place the item and the previous cell will automatically change colour based on the bag colour listed in Cells B8 to B12.
+    3. Clicking on a cell in this column presents a down arrow, clicking on which gives you a dropdown with a list of your bags. As you pack an item, pick the bag in which you place the it and the previous cell will automatically change colour based on the bag colour listed in Cells B8 to B12. This way you can make sure you don't miss anything essential.
     4. The 4th column is a section for "Notes". You can use this to list where in the bag you have stored the item.
     
     Here is a sample of the sheet partially filled in.
@@ -32,7 +32,9 @@ Prerequisites: <a href = "https://www.libreoffice.org/download/download-libreoff
 5. Clicking on the "Clear All" button will clear all the entries and reset the sheet.
 6. I have added a list of items that are usually carried on motorcycle trips. There is also a section called "EXTRAS" where you can add other items that you may want to add to the list.
 
-You can export this sheet as a pdf or click a picture on your phone on your phone so you can quickly look where certain items are.
+You can export this sheet as a pdf or click a picture on your phone so you can quickly look up where specific items are.
+
+Here is what I carry.
 
 ## On my motorcycle
 
@@ -40,7 +42,7 @@ You can export this sheet as a pdf or click a picture on your phone on your phon
 2. Carbonado ModPac Tail Bag 20 ltr
 3. ViaTerra Oxus Tank Bag
 4. Rynox Gripper Reflective Bungees
-5. Decathlon Cycle Mobile Holder (https://www.decathlon.in/p/8385553/cycle-mobile-holders/cycle-mobile-holder-500-black)
+5. <a href = "https://www.decathlon.in/p/8385553/cycle-mobile-holders/cycle-mobile-holder-500-black">Decathlon Cycle Mobile Holder</a>
 6. Secondary Mobile Phone for Navigation
 
 Here are a few pictures of all my luggage loaded onto my motorcycle.
@@ -57,7 +59,7 @@ Here are a few pictures of all my luggage loaded onto my motorcycle.
 * Top
     * Rynox Urban X Jacket
         * Inside Packet - Primary Mobile Phone, Wallet
-        * Left Pocket - Primary Motorcycle Key (When not in use)
+        * Left Pocket - Primary Motorcycle Key when not in use
     * Rynox Vapour Pro Base Layer - Upper
     * Rynox Storm Evo 3 Gloves
 
@@ -67,7 +69,7 @@ Here are a few pictures of all my luggage loaded onto my motorcycle.
         * Right Pocket - Handkerchief
     * Decathlon Padded Cycling Shorts
     * Rynox Vapour Pro Base Layer - Lower
-    * Raida TrailCraft Boots
+    * <a href = "{% post_url 2024-04-08-raida-trailcraft-motorcycle-boots-review %}">Raida TrailCraft Motorcycle Boots</a>
     * Raida CoolMax Knee Length Socks
 
 I also carry pepper spray and a whistle on me. They should be quickly accessible in case of emergencies.
@@ -91,27 +93,26 @@ The winter gloves and the Jacket/ Hoodie should be thin enough to fit under your
 
 ## Motorcycle Maintenance & Spare Parts
 
-* Qubo Smart Tyre Inflator (Use WANDER10 for a 10% discount on their official website)
+* <a href = "https://www.quboworld.com/smart-tyre-inflator">Qubo Smart Tyre Inflator</a> (Use WANDER10 for a 10% discount on their official website)
 * Extra Brake and Clutch Levers
 * Extra Mirror
 * Extra Clutch Cable
 * Chain maintenance kit
-    * Motul C1 Chain cleaner
+    * Motul C1 Chain Cleaner
     * Motul C2 Chain Lube
-    * Cleaning cloth
-    * Cleaning brush
+    * Cleaning Cloth
+    * Cleaning Brush
 * Toolkit
-    * Disposable Gloves - Link to Amazon
+    * Disposable Gloves
     * Tubeless Tyre Puncture Kit
-    * Zip ties
+    * Zip Ties
     * Scissors
-    * Electrical tape
-
+    * Electrical Tape
 
 
 ## Clothes
 
-I choose and adjust the quantities depending on the number of days of the journey.
+Choose and adjust the quantities depending on the number of days of the journey and the destination.
 
 * Quick Dry T-shirts
 * Cotton T-shirts
@@ -159,7 +160,6 @@ You can choose and select the medicines you want according to your needs. Here's
 * A bed sheet
 * Diary & Pen
 * Big polythene bags
-* Deodorant
 * Cash - split and stored in different places
 * Cable lock
 * Liquid detergent for clothes
@@ -170,6 +170,7 @@ You can choose and select the medicines you want according to your needs. Here's
 * Paper soap
 * Toothpicks
 * Masks
+
 ## Bathroom Kit
 
 Double wrap all liquids in polythene bags to be safe in case anything leaks.
@@ -183,18 +184,24 @@ Use a cutter/scissors to cut off a small sliver and use it for bathing. That way
 * Face Wash
 * Deodorant
 
-## Extras
+## High Altitude Tours
 
+For high altitude tours like Ladakh, you might want to carry some specialised equipment. While you might not need them, these items are good to have.
+* Medicine for AMS(Acute Mountain Sickness)
+* Portable Oxygen Can
+* Pulse Oximeter
+
+## Extras
 
 * RE x TCX WP Cabo Shoes
     * If I plan on staying overnight at some spots and need something to ride around town in, then I use these. These are much closer to normal shoes so I can walk easier in them and explore. 
 * Viaterra Austin Riding Jeans
     * Again, these are much closer to normal jeans so I use these when riding in and around towns where I would need to walk a lot.
 
-
 ## Notes
 
 * I especially like tail bags because they can also act as a back rest. I've toured for around 8000kms on my bike and I've never experienced any back pain on any of my rides. Partial credit goes to my tail bag.
+* You might not be allowed to carry some of these items in a flight like pepper spray so plan accordingly.
 
 label quick access items
 
