@@ -2,7 +2,7 @@
 layout: post
 title: 'Weekend Ride to Maheshwar and Mandu'
 date: 2024-04-06 20:07 +0530
-categories: [moto expeditions]
+categories: [travelogues]
 carousels:
   - images: 
     - image: /assets/img/24-03-Maheshwar/day_1_1.jpg

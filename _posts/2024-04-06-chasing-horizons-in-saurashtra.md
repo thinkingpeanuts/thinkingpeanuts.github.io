@@ -2,7 +2,7 @@
 layout: post
 title: Chasing Horizons in Saurashtra
 date: 2024-04-06 16:22 +0530
-categories: [moto expeditions]
+categories: [travelogues]
 carousels:
   - images: 
     - image: /assets/img/24-03-Saurashtra/day_1_1.jpg
