@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Packing luggage for a motorcycle tour
-date: 2024-04-15 16:06 +0530
 carousels:
-  - images: 
-    - image: /assets/img/guide-luggage/loaded_1.jpg
-    - image: /assets/img/guide-luggage/loaded_2.jpg
+- images:
+  - image: "/assets/img/guide-luggage/loaded_1.jpg"
+  - image: "/assets/img/guide-luggage/loaded_2.jpg"
 ---
-
 Here is how I pack for a motorcycle tour. This is a superset of things I carry with me. I pick and choose things from these based on the destination, duration and the time of the year. I keep a track of what items I pack in what bag and keep that list on my phone so I can get to things quicker. There is a linked spreadsheet which you can use to keep track of things. I've tried to make this list as exhaustive as possible. You might not need all of these so you can pick and choose what you want.
 
 ## How to use this Packing Guide
@@ -162,7 +160,7 @@ You can choose and select the medicines you want according to your needs. Here's
 * Big polythene bags
 * Cash - split and stored in different places
 * Cable lock
-* Liquid detergent for clothes
+* Detergent for clothes
 * Sanitizer
 * Extra can of pepper spray
 * Hand towel
