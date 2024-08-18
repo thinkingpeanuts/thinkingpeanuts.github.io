@@ -1,7 +1,7 @@
 ---
-title: Exploring the Konkan Coast - A 4000km motorcycle expedition
+title: Exploring the Konkan Coast
 date: 2024-03-15 21:20:00 +0530
-categories: [moto expeditions]
+categories: [travelogues]
 #tags: [tag]     # TAG names should always be lowercase
 carousels:
   - images: 

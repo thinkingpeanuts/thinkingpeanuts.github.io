@@ -18,6 +18,10 @@ carousels:
     - image: /assets/img/Review-RaidaBoots/set_3_1.jpg
     - image: /assets/img/Review-RaidaBoots/set_3_2.jpg
     - image: /assets/img/Review-RaidaBoots/set_3_3.jpg
+  - images: 
+    - image: /assets/img/Review-RaidaBoots/set_4_1.jpg
+    - image: /assets/img/Review-RaidaBoots/set_4_2.jpg
+    - image: /assets/img/Review-RaidaBoots/set_4_3.jpg
 ---
 
 Bought on: 25th January 2024<br>
@@ -31,7 +35,7 @@ After an extensive search for full size touring boots, I bought a pair of Raida 
 
 ## Build Quality
 
-Holding them for the first time, the boots seem really well made. They have good grip and are sturdy. They have shin, ankle, toe, heel and calf protection. They are CE Certified to EN 13634: 2017 (LEVEL 2) which is really important as this specific standard is for "Protective footwear for motorcycle riders". A lot of other boots, for example the Raida Explorer Boots, are CE Certified to EN ISO 20345 which is a standard for safety footwear for general purpose which is not exactly what we want for motorcycle boots. There are 4 components to this EN 13634: 2017 - height of upper, abrasion resistance, impact cut resistance and transverse rigidity. The Raida TrailCraft Boots are rated Level 2 in all four components(last image in the gallery above).
+Holding them for the first time, the boots seem really well made. They have good grip(3rd picture in the 7000km update) and are sturdy. They have shin, ankle, toe, heel and calf protection. They are CE Certified to EN 13634: 2017 (LEVEL 2) which is really important as this specific standard is for "Protective footwear for motorcycle riders". A lot of other boots, for example the Raida Explorer Boots, are CE Certified to EN ISO 20345 which is a standard for safety footwear for general purpose which is not exactly what we want for motorcycle boots. There are 4 components to this EN 13634: 2017 - height of upper, abrasion resistance, impact cut resistance and transverse rigidity. The Raida TrailCraft Boots are rated Level 2 in all four components(last image in the gallery above).
 
 They are made of some sort of synthetic material which seems sturdy. They have stretch panels in the front and the back which help with walkability. They are secured using a velcro at the top and 4 buckles which can be adjusted as per your preference. The buckles are replaceable and Raida does sells them separately as well which is great. They're designed to be off-road boots but I have used them for touring and they seem to work great. 
 
@@ -54,3 +58,13 @@ I use them with knee length socks from Raida and with my riding pants, my entire
 I'd say these boots are a great buy for the price. No other riding boots in this range offer such great features.
 
 Note: Raida does offer exchange on these boots if you need a different size but you have to send the boots back to them by courier on your own dime. However, they will ship the replacement boots to you for free.
+
+## Update 1 - 7000 kms | 6 Months
+
+{% include carousel.html height="70" unit="%" number="4" %}
+
+The only cleaning I've done is wipe them down with a damp cloth after each tour.
+
+Since I've posted this review, I have done another 5000 kms with these boots, most of them during my Ladakh trip. I'm happy to say these boots are still holding up well. Visually and structurally they're still solid. Although I do now have proof that these are not waterproof. While crossing some water in Ladakh, I felt that maybe a little water might have seeped it. I could not confirm this since I had a lot of riding remaining for the day and I did not want to take them off. I couldn't feel the water on my feet since I was wearing waterproof socks. Later when I rode in some heavy rain, the boots got damp on the inside. It wasn't like there was a pool of water in the boots but rather the inner walls were a little damp. So I would say these are water resistant because nothing seems to seep in during light rain but if they're exposed to water for a long time, water will seep in and wet the walls on the inside.
+
+I will add an update when I test it again in some water crossings with prolonged exposure but as of now I am still really happy with them. I feel they will last me a long time. And as long as I am using waterproof socks(the Rynox ones work really well btw), I don't really have to worry about water.
