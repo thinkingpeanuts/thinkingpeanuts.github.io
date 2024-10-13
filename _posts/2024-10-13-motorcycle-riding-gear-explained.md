@@ -7,6 +7,10 @@ This article is a result of my own research while getting into the world of moto
 
 Consider this article to be an introduction to riding gear. It's a massive rabbit hole and there are more things to consider when choosing new motorcycle gear. This article is a good primer but I still suggest you do your own research and get gear specific to your needs.
 
+<i>Disclaimer - The brands I mention throughout this article are just some of the brands that sell riding gear. They are not recommendations. I only recommend stuff that I have used myself. You can find a list of riding gear I use and their reviews(in progress) on <a href = "{% post_url 2024-03-27-motorcycle-riding-gear-i-use %}">THIS</a> page. In those reviews, I mention the pros and cons of that item and whether I would recommend them to other people or not. 
+
+<i>I've mentioned some brands in this article so that people who don't know any brands at all have a starting point to look stuff up. I have listed a lot more brands at the end of this article as well. Again, they are not recommendations since I have experience with only a few of them and that too with a limited number of items.</i> 
+
 ## Why you need riding gear?
 
 Riding motorcycles is dangerous. I suggest you watch this video.<br>
