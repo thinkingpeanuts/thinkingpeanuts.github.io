@@ -18,6 +18,7 @@ This is a repository of all the content on my website.
 * <a href = "{% post_url 2024-04-14-honda-cb350rs-review %}">My Honda CB350RS Journey</a>
 * <a href = "{% post_url 2024-04-08-raida-trailcraft-motorcycle-boots-review %}">Raida TrailCraft Motorcycle Boots</a>
 
-## Motorcycle Touring Guides
+## Guides
 
+* <a href = "{% post_url 2024-10-13-motorcycle-riding-gear-explained %}">Motorcycle Riding Gear Explained</a>
 * <a href = "{% post_url 2024-03-27-motorcycle-riding-gear-i-use %}">Riding Gear I Use</a>
