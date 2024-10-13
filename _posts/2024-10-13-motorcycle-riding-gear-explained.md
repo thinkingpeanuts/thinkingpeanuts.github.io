@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorcycle Riding Gear Explained
+title: Guide - Motorcycle Riding Gear Explained
 date: 2024-10-13 18:29 +0530
 ---
 This article is a result of my own research while getting into the world of motorcycles. Riding gear is an altogether different breed of clothing that takes some time to understand. I will elaborate on the more intricate details of riding gear and safety standards. There is a <a href="#tldr">TLDR</a> at the bottom but I suggest you read this article in its entirety to help you make an informed choice on what safety gear to buy.
