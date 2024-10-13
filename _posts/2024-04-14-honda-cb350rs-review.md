@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Honda CB350RS Journey
+title: Honda CB350RS Review
 date: 2024-04-14 01:57 +0530
 categories: [motorcycle]
 ---
