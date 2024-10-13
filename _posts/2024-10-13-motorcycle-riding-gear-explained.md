@@ -7,6 +7,10 @@ This article is a result of my own research while getting into the world of moto
 
 Consider this article to be an introduction to riding gear. It's a massive rabbit hole and there are more things to consider when choosing new motorcycle gear. This article is a good primer but I still suggest you do your own research and get gear specific to your needs.
 
+<i>Disclaimer - The brands I mention throughout this article are just some of the brands that sell riding gear. They are not recommendations. I only recommend stuff that I have used myself. You can find a list of riding gear I use and their reviews(in progress) on <a href = "{% post_url 2024-03-27-motorcycle-riding-gear-i-use %}">THIS</a> page. In those reviews, I mention the pros and cons of that item and whether I would recommend them to other people or not. 
+
+<i>This article is more about what features to look out for in riding gear rather than what brand to buy. I've mentioned some brands in this article so that people who don't know any brands at all have a starting point to look stuff up. I have listed a lot more brands at the end of this article as well. Again, they are not recommendations since I have experience with only a few of them and that too with a limited number of items. Always do your own research before buying any gear.</i>
+
 ## Why you need riding gear?
 
 Riding motorcycles is dangerous. I suggest you watch this video.<br>
@@ -112,7 +116,7 @@ All of this info maybe seem a lot, so here's a toned down tldr.
 
 Get a full face ECE 22.06 & ISI rated helmet. Get a riding jacket with level 2 protectors at shoulders, elbows, back and chest. Get riding pants with level 2 protectors at the hips, knees and tail bone. Get CE certified riding shoes with protectors at the heel, toe, ankles(both sides) and the shin. 
 
-Here is a list of some brands that make motorcycle riding gear - Rynox, Viaterra, Raida, Scala, Royal Enfield, Korda, Aplinestars, Shima, Klim, Dainese and Revit. There are also some other helmet brands that offer ECE 22.06 rated helmets but might not have ISI certifications as they are imported. Helmet brands you can look in to - SMK, Axor, MT, Royal Enfield, AGV, HJC, LS2, Shoei, Arai and Scorpion. Some of the imported brands are usually more expensive.
+Here is a list of some brands that make motorcycle riding gear - Rynox, Viaterra, Raida, Scala, Royal Enfield, Korda, Aplinestars, Shima, Klim, Dainese and Revit. There are also some other helmet brands that offer ECE 22.06 rated helmets but might not have ISI certifications as they are imported. Helmet brands you can look in to - SMK, Axor, MT, Royal Enfield, AGV, HJC, LS2, Shoei, Arai and Scorpion. These are not recommendations. I've just listed them so if you don't know any brands at all, you can use this to look stuff up. There are countless more out there. Do you own research about the specific brand and the specific product you wanna buy. Use this article as a reference on what features to look out for.
 
 ## Conclusion
 
