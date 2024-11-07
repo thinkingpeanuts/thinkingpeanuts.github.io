@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site Manual
+title: Site Manual (Start Here)
 date: 2024-04-15 15:20 +0530
 pin: true
 ---
