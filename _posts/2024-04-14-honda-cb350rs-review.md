@@ -95,6 +95,8 @@ Lots of updates since I origianlly wrote this review. Starting with the power an
 
 In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip I got my bike checked. There were no issues with the bike. I did get the air filter changed bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
 
+I also got some aux lights installed, specifically the Maddog Scout X. While the installtion was good and the lights functioned well, I had an issue one day when I parked the bike to open the gate. The bike was on and so were the lights. As soon as I turned the handle bar to the left and park it on the side stand, the bike abrupty shut off. The engine turned off and so did all the electrical components. Turns out I had blown a fuse. And the cuprit was one small wire for the aux lights switch leading up to the headlight assembly that got caught between the frame and part of the headlight assembly. Apparently this had been happening a lot but nothing short cirucuited because I never used the lights. And the day I did, the wire had already been stripped due to repeated pressure from the frame and the headlight assembly contact. So as soon as the turned on wire came in contact with the frame when I parked the bike, it blew the main fuse. Thankfully I was already home. Later, I opened the fusebox and replace the fuse with a spare that was already provided with the bike and the bike started working again. I got the wiring fixed and tucked in so avoid such issues again.
+
 ## Checkup 4
 
 The plan to change the oil in Chandigarh didn't pan out due to lack of time. When I got to Srinagar, I called Honda  to ask where I could get the oil changed in my bieke. The only BigWing service center in all of Kashmir is in Jammu. They said I could get it changed at a Honda service station(Non-BigWing). I went there but was told it wouldn't be possible to chagne oil on the same day due to rush. Then I asked to buy the oil and get it chagned myself from some other shop. The Honda center refused that they can't do that. When I insisited they changed their statement and said they don't have the fully synthetic oil that my bike takes. Suffice to say, it was not a good experience.
@@ -109,19 +111,20 @@ The bike performed flawlessly through the whole trip. I did experience some loss
 
 ## Service 4 Part 1
 
-I stayed in Chandigarh for a day on my way back home and got an oil change there. The guys at the BigWing in Chandigarh were really professional and quick.
+I stayed in Chandigarh for a day on my way back home and got an oil change there. The guys at the BigWing in Chandigarh were really professional and quick. 
 
 ## Service 4 Part 2
 
-After I got home from Ladakh, I had my 4th service done, barring the oil change as I had already gotten it done in Chandigarh.
+After I got home from Ladakh, I had my 4th service done, barring the oil change as I had already gotten it done in Chandigarh. I did however notice my chain was making some noises in the second gear sometimes. The mechanic told me it was time to change the chain as it had worn out but advised me to do it after a few months when monsoon had passed.
 
-maddog incident short circuit
-ladakh oil couldnt find, changed brake pads
+## Chain Set Replacement
+
+A few months later I got the chain set replaced. Braking didn't feel great so I also had to replace the front brake pads too. They were worn out which was surpirsing since I had gotten them changed not that long ago in Leh. Changing them did solve my braking issue and the new chain made my bike as smooth as butter. This time the mechanic also fixed the veering left issue by adjustin gsomething in the fornt suspension. I still think it might be there like a tiny tiny bit sometimes but for the most part it's gone. Ther bike never felt like it had aged much but after this service it felt brand new. I think the primary reason was the new chain set.
 
 chd oil, filter extra
 veering fixed
-saddle stays
-mh trip
+saddle stays less than 1000 lsot bill i think
+mh  trip
 
 rust
 
