@@ -83,41 +83,93 @@ There was a special checkup organised by BigWing where Engineers were gonna come
 
 ## Power and Mileage dropped again
 
-I was on a <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">trip to Maheshwar & Mandu</a> in Madhya Pradesh, when I faced the mileage issue again. It wasn't as bad as the last time and power didn't take as big of a hit. The mileage was down though. During the first 2 hours of the trip, I got a mileage of 42 kmpl, my best ever. After that it dropped. It still wasn't as bad as last time but there was something wrong. There was a small drop in power as well. I contacted the service center upon my return and they said it could be an issue of bad petrol. They suggested I use up as much of it as I can and then refuel my bike with fresh petrol. I did the same and the issue has almost disappeared. Mileage and power are back up but I still feel it is not as good as before. It's almost there, maybe at 95%. I will test it some more and get it checked at the service center if needed. I've also noticed that the bike is slightly veering left so I need to get that checked as well.
+I was on a <a href = "{% post_url 2024-04-06-weekend-ride-maheshwar-and-mandu %}">trip to Maheshwar & Mandu</a> in Madhya Pradesh, when I faced the mileage issue again. It wasn't as bad as the last time and power didn't take as big of a hit. The mileage was down though. During the first 2 hours of the trip, I got a mileage of 42 kmpl, my best ever. After that it dropped. It still wasn't as bad as last time but there was something wrong. There was a small drop in power as well. I contacted the service center upon my return and they said it could be an issue of bad petrol. They suggested I use up as much of it as I can and then refuel my bike with fresh petrol. I did the same and the issue has almost disappeared. Mileage and power are back up but I still feel it is not as good as before. It's almost there, maybe at 95%. I will test it some more and get it checked at the service center if needed. I've also noticed that the bike is slightly veering left so I need to get that checked as well.
 
 As I'm writing this, I've done over 13,000 kilometres in a little over 9 months and I've thoroughly enjoyed every moment. The bike rides just as smooth as day one. Even though I don't have a commute, I take her out almost daily. I've done 4 long tours on it and I'm planning to explore the entire country on my Honda.
 
+## Update 1 - 22000 kms | 1 year 7 months 
+ 
+Lots of updates since I origianlly wrote this review. Starting with the power and mileage issue I mentioned at the end of my original article. This time it got fixed by itself. Not sure what the problem was but the power is back as it always was. And the mileage seems normal as well.
+
+## Checkup 3
+
+In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip I got my bike checked. There were no issues with the bike. I did get the air filter changed bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
+
+## Checkup 4
+
+The plan to change the oil in Chandigarh didn't pan out due to lack of time. When I got to Srinagar, I called Honda  to ask where I could get the oil changed in my bieke. The only BigWing service center in all of Kashmir is in Jammu. They said I could get it changed at a Honda service station(Non-BigWing). I went there but was told it wouldn't be possible to chagne oil on the same day due to rush. Then I asked to buy the oil and get it chagned myself from some other shop. The Honda center refused that they can't do that. When I insisited they changed their statement and said they don't have the fully synthetic oil that my bike takes. Suffice to say, it was not a good experience.
+
+A few days later when I reached Leh, I called the BigWing in Jammu again to help me find oil there. They again directed me to a Honda service center(Not BigWing). I went there and they were ready to chagne the oil but they only had 1 bottle of oil and my bike takes 2. They told me Honda doesn't really provide them with spare parts. They have to wait months and months for them. The people at service center were really helpful. They checked the oil and said I was fine to ride till Chandigarh where I could get my oil chagned. I had brought a replacement set of brakepads with me and got them replaced here.
+
+Honda really needs to sort out their service center for their bigger bikes. Especially during the touring season in Ladakh.
+
+## Riding in Ladakh
+
+The bike performed flawlessly through the whole trip. I did experience some loss of power but that is expected due to lack of oxygen at high altitudes. The bike staerted up every morning and surprising it gave me even better mileage than flats on some days. I think it was because I was driving slower in the mountains.
+
+## Service 4 Part 1
+
+I stayed in Chandigarh for a day on my way back home and got an oil change there. The guys at the BigWing in Chandigarh were really professional and quick.
+
+## Service 4 Part 2
+
+After I got home from Ladakh, I had my 4th service done, barring the oil change as I had already gotten it done in Chandigarh.
+
+maddog incident short circuit
+ladakh oil couldnt find, changed brake pads
+
+chd oil, filter extra
+veering fixed
+saddle stays
+mh trip
+
+rust
 
 ## Service Costs
 
 <table>
-<tbody>
-<tr>
-<td></td>
-<td>Cost</td>
-<td>Notes</td>
-</tr>
-<tr>
-<td>Service 1</td>
-<td>2299</td>
-<td>oil change, front fender extender, rear mudflap</td>
-</tr>
-<tr>
-<td>Checkup 1</td>
-<td>1727</td>
-<td>seat cover, spare levers and spare mirror</td>
-</tr>
-<tr>
-<td>Service 2</td>
-<td>2317</td>
-<td>oil change, lock set replaced(under warranty)</td>
-</tr>
-<tr>
-<td>Service 3</td>
-<td>5623</td>
-<td>oil change, spare clutch cable, front fender & brake lever replaced</td>
-</tr>
-</tbody>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>Cost</td>
+            <td>Notes</td>
+        </tr>
+        <tr>
+            <td>Service 1</td>
+            <td>2299</td>
+            <td>oil change, front fender extender, rear mudflap</td>
+        </tr>
+        <tr>
+            <td>Checkup 1</td>
+            <td>1727</td>
+            <td>seat cover, spares - levers, mirror</td>
+        </tr>
+        <tr>
+            <td>Service 2</td>
+            <td>2317</td>
+            <td>oil change, lock set replaced(under warranty)</td>
+        </tr>
+        <tr>
+            <td>Service 3</td>
+            <td>5623</td>
+            <td>oil change, front fender & brake lever replaced, spares - cable</td>
+        </tr>
+        <tr>
+            <td>Checkup 2</td>
+            <td>0</td>
+            <td>air filter and spark plug cleaning</td>
+        </tr>
+        <tr>
+            <td>Special Checkup</td>
+            <td>0</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Checkup 3</td>
+            <td>2246</td>
+            <td>air filter, spares - brake pads, cables, oil filter</td>
+        </tr>
+    </tbody>
 </table>
 
 ## Extras
