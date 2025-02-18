@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+Hey, thanks for reading.
+I am Rinoy and I write about motorcycle stuff.<br>
 Feedback/suggestions welcome.<br>
-If you want to get in touch, feel free to email me or dm me on Instagram.
+If you want to get in touch, feel free to text me on any of the platforms below.
 
 Email - thinkingpeanuts@gmail.com<br>
 Instagram - <a href = "https://www.instagram.com/sixamps_">sixamps_</a><br>

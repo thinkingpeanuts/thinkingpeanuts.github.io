@@ -83,41 +83,120 @@ There was a special checkup organised by BigWing where Engineers were gonna come
 
 ## Power and Mileage dropped again
 
-I was on a <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">trip to Maheshwar & Mandu</a> in Madhya Pradesh, when I faced the mileage issue again. It wasn't as bad as the last time and power didn't take as big of a hit. The mileage was down though. During the first 2 hours of the trip, I got a mileage of 42 kmpl, my best ever. After that it dropped. It still wasn't as bad as last time but there was something wrong. There was a small drop in power as well. I contacted the service center upon my return and they said it could be an issue of bad petrol. They suggested I use up as much of it as I can and then refuel my bike with fresh petrol. I did the same and the issue has almost disappeared. Mileage and power are back up but I still feel it is not as good as before. It's almost there, maybe at 95%. I will test it some more and get it checked at the service center if needed. I've also noticed that the bike is slightly veering left so I need to get that checked as well.
+I was on a <a href = "{% post_url 2024-04-06-weekend-ride-maheshwar-and-mandu %}">trip to Maheshwar & Mandu</a> in Madhya Pradesh, when I faced the mileage issue again. It wasn't as bad as the last time and power didn't take as big of a hit. The mileage was down though. During the first 2 hours of the trip, I got a mileage of 42 kmpl, my best ever. After that it dropped. It still wasn't as bad as last time but there was something wrong. There was a small drop in power as well. I contacted the service center upon my return and they said it could be an issue of bad petrol. They suggested I use up as much of it as I can and then refuel my bike with fresh petrol. I did the same and the issue has almost disappeared. Mileage and power are back up but I still feel it is not as good as before. It's almost there, maybe at 95%. I will test it some more and get it checked at the service center if needed. I've also noticed that the bike is slightly veering left so I need to get that checked as well.
 
 As I'm writing this, I've done over 13,000 kilometres in a little over 9 months and I've thoroughly enjoyed every moment. The bike rides just as smooth as day one. Even though I don't have a commute, I take her out almost daily. I've done 4 long tours on it and I'm planning to explore the entire country on my Honda.
 
+## Update 1 - 22000 kms | 1 year 7 months 
+ 
+Lots of updates since I origianlly wrote this review. Starting with the power and mileage issue I mentioned at the end of my original article. This time it got fixed by itself. Not sure what the problem was but the power is back as it always was. And the mileage seems normal as well.
+
+## Checkup 3
+
+In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip, I got my bike checked. There were no issues with the bike. I did get the air filter changed and bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
+
+I also got some aux lights installed, specifically the Maddog Scout X. While the installtion was good and the lights functioned well, I had an issue one day when I parked the bike to open the gate. The bike was on and so were the lights. As soon as I turned the handle bar to the left and park it on the side stand, the bike abrupty shut off. The engine turned off and so did all the electrical components. Turns out I had blown a fuse. And the cuprit was a small wire for the aux lights switch leading up to the headlight assembly that got caught between the frame and part of the headlight assembly. Apparently this had been happening a lot but nothing short cirucuited because I never used the lights. And the day I did, the wire had already been stripped due to repeated pressure from the frame and the headlight assembly contact. So as soon as the turned on wire came in contact with the frame when I parked the bike, it blew the main fuse. Thankfully I was already home. Later, I opened the fusebox and replace the fuse with a spare that was already provided with the bike and the bike started working again. I got the wiring fixed and tucked in so avoid such issues again.
+
+I also got a set of saddle stays installed but I think I lost the invoice for it. It was around 1000 rupees I think. And I paid 500 rupees for the installation of the aux lights.
+
+## Checkup 4
+
+The plan to change the oil in Chandigarh didn't pan out due to lack of time. When I got to Srinagar, I called Honda to ask where I could get the oil changed in my bike. The only BigWing service center in all of Kashmir is in Jammu. They said I could get it changed at a Honda service station(Non-BigWing). I went there but was told it wouldn't be possible to chagne oil on the same day due to rush. Then I asked to buy the oil and get it chagned myself from some other shop. The Honda center refused that they can't do that. When I insisited, they changed their statement and said they don't have the fully synthetic oil that my bike takes. Suffice to say, it was not a good experience.
+
+A few days later when I reached Leh, I called the BigWing in Jammu again to help me find oil there. They again directed me to a Honda service center(Not BigWing). I went there and they were ready to change the oil but they only had 1 bottle of oil and my bike takes 2. They told me Honda doesn't really provide them with spare parts. They have to wait months and months for them. The people at service center were really helpful. They checked the oil and said I was fine to ride till Chandigarh where I could get my oil changed. I had brought a replacement set of brakepads with me and got them replaced here. The mechanic there was really helpful and asked barely for 100 or 200 rupees for checking the oil, lubing the chain and replacing the brake pads. I was very happy with his service and gave him 500 for a job well done. I really appreciated this service center employees' kindness and polite attitude.
+
+Here's a picture of my bike with the mechanic who helped me at the Honda service center in Leh.
+![Route](/assets/img/honda-review/leh.jpg)
+
+Honda really needs to sort out their service center for their bigger bikes. Especially during the touring season in Ladakh.
+
+## Riding in Ladakh
+
+The bike performed flawlessly through the whole trip. I did experience some loss of power but that is expected due to lack of oxygen at high altitudes. The bike staerted up every morning and surprising it gave me even better mileage than flats on some days. I think it was because I was driving slower in the mountains.
+
+## Service 4 Part 1
+
+I stayed in Chandigarh for a day on my way back home and got an oil change there. The guys at the BigWing in Chandigarh were really professional and quick. 
+
+## Service 4 Part 2
+
+After I got home from Ladakh, I had my 4th service done, barring the oil change as I had already gotten it done in Chandigarh. I did however notice my chain was making some noises in the second gear sometimes. The mechanic told me it was time to change the chain as it had worn out but advised me to do it after a few months when monsoon had passed.
+
+## Chain Set Replacement
+
+A few months later I got the chain set replaced. Braking didn't feel great so I also had to replace the front brake pads too. They were worn out which was surpirsing since I had gotten them changed not that long ago in Leh. Changing them did solve my braking issue and the new chain made my bike as smooth as butter. This time the mechanic also fixed the veering left issue by adjusting something in the front suspension. I still think it might be there like a tiny tiny bit sometimes but for the most part, it's gone. The bike never felt like it had aged much but after this service it felt brand new. I think the primary reason was the new chain set.
+
+I took the bike for a small trip to Maharashtra for a couple of days after this, and had no issues. As of writing I have close to 23000 kms on the bike and it is runnign flawlessly.
+
+## Rusting
+
+There is a lot of talk about rusting on the CB bikes these days, especially on reddit. I have had a very non-troubling experience here. I had some tiny surface level rust spots on the frame, a couple of milimeters max, nothing to worry about. I just cleaned them up and painted over them. I also had some surface level rust on the handlebar where my mobile holder had scratched off the paint and where my keys hit the handlebar. Again, not a big deal, I just cleaned and painted over those spots. Same deal with the saddle stays. The paint had rubbed off due to my saddle bags causing some surface level rust. I painted over that as well. The circumference of one of the disc brakes had some as well, but nothing on the disc itself. Very honestly, none of the rust I saw on my bike was troublesome. It was only a few tiny spots where the paint had eroded and it was only surface level. I'd almost consider this normal wear and tear. The paint quality is the issue I think. That's where improvement is needed. I even rode my bike on the beach during my latest Maharashtra trip, wading through some water but didn't face any problem. I've used this bike a lot in the past year & a half and I'm happy to say, I've had no major rust issues.
 
 ## Service Costs
 
 <table>
-<tbody>
-<tr>
-<td></td>
-<td>Cost</td>
-<td>Notes</td>
-</tr>
-<tr>
-<td>Service 1</td>
-<td>2299</td>
-<td>oil change, front fender extender, rear mudflap</td>
-</tr>
-<tr>
-<td>Checkup 1</td>
-<td>1727</td>
-<td>seat cover, spare levers and spare mirror</td>
-</tr>
-<tr>
-<td>Service 2</td>
-<td>2317</td>
-<td>oil change, lock set replaced(under warranty)</td>
-</tr>
-<tr>
-<td>Service 3</td>
-<td>5623</td>
-<td>oil change, spare clutch cable, front fender & brake lever replaced</td>
-</tr>
-</tbody>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>Cost</td>
+            <td>Notes</td>
+        </tr>
+        <tr>
+            <td>Service 1</td>
+            <td>2299</td>
+            <td>oil change, front fender extender, rear mudflap</td>
+        </tr>
+        <tr>
+            <td>Checkup 1</td>
+            <td>1727</td>
+            <td>seat cover, spares - levers, mirror</td>
+        </tr>
+        <tr>
+            <td>Service 2</td>
+            <td>2317</td>
+            <td>oil change, lock set replaced(under warranty)</td>
+        </tr>
+        <tr>
+            <td>Service 3</td>
+            <td>5623</td>
+            <td>oil change, front fender & brake lever replaced, spares - cable</td>
+        </tr>
+        <tr>
+            <td>Checkup 2</td>
+            <td>0</td>
+            <td>air filter and spark plug cleaning</td>
+        </tr>
+        <tr>
+            <td>Special Checkup</td>
+            <td>0</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Checkup 3</td>
+            <td>2246</td>
+            <td>air filter, spares - brake pads, cables, oil filter</td>
+        </tr>
+        <tr>
+            <td>Misc</td>
+            <td>1500</td>
+            <td>saddle stays + aux lights(installation)</td>
+        </tr>
+        <tr>
+            <td>Checkup 4</td>
+            <td>500</td>
+            <td>replaced brake pads, chain lubing</td>
+        </tr>
+        <tr>
+            <td>Service 4</td>
+            <td>2736</td>
+            <td>oil change, chain lubing</td>
+        </tr>
+        <tr>
+            <td>Chain Set Replacement</td>
+            <td>3700</td>
+            <td>new chain set, front brake pads, front suspension O/H</td>
+        </tr>
+    </tbody>
 </table>
 
 ## Extras

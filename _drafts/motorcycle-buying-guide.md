@@ -52,11 +52,18 @@ mirirors
 heat
 Write
 
+how a bike look son you
+people say im 6,2 bikes look small
+all that matters is comfort accoording to me
+just eprsonal opinions and choices, yo umight agree or disagree need all points or mihgt not
+
 weatehr dependent case of heating issues
 
 cant compare hp and torqu and cc
 explain cc hp torque
 explani oversquare udnersquare etc ,long stroke etx
+
+youll have to compromise on something, you wont get everything yo uneed in one bike - you can but its dfifficult
 
 numbers dont translate to riding feel
 
