@@ -181,6 +181,21 @@ There is a lot of talk about rusting on the CB bikes these days, especially on r
             <td>1500</td>
             <td>saddle stays + aux lights(installation)</td>
         </tr>
+        <tr>
+            <td>Checkup 4</td>
+            <td>500</td>
+            <td>replaced brake pads, chain lubing</td>
+        </tr>
+        <tr>
+            <td>Service 4</td>
+            <td>2736</td>
+            <td>oil change, chain lubing</td>
+        </tr>
+        <tr>
+            <td>Chain Set Replacement</td>
+            <td>3700</td>
+            <td>new chain set, front brake pads, front suspension O/H</td>
+        </tr>
     </tbody>
 </table>
 
