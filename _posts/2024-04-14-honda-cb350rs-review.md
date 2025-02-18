@@ -93,17 +93,20 @@ Lots of updates since I origianlly wrote this review. Starting with the power an
 
 ## Checkup 3
 
-In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip I got my bike checked. There were no issues with the bike. I did get the air filter changed bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
+In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip, I got my bike checked. There were no issues with the bike. I did get the air filter changed and bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
 
-I also got some aux lights installed, specifically the Maddog Scout X. While the installtion was good and the lights functioned well, I had an issue one day when I parked the bike to open the gate. The bike was on and so were the lights. As soon as I turned the handle bar to the left and park it on the side stand, the bike abrupty shut off. The engine turned off and so did all the electrical components. Turns out I had blown a fuse. And the cuprit was one small wire for the aux lights switch leading up to the headlight assembly that got caught between the frame and part of the headlight assembly. Apparently this had been happening a lot but nothing short cirucuited because I never used the lights. And the day I did, the wire had already been stripped due to repeated pressure from the frame and the headlight assembly contact. So as soon as the turned on wire came in contact with the frame when I parked the bike, it blew the main fuse. Thankfully I was already home. Later, I opened the fusebox and replace the fuse with a spare that was already provided with the bike and the bike started working again. I got the wiring fixed and tucked in so avoid such issues again.
+I also got some aux lights installed, specifically the Maddog Scout X. While the installtion was good and the lights functioned well, I had an issue one day when I parked the bike to open the gate. The bike was on and so were the lights. As soon as I turned the handle bar to the left and park it on the side stand, the bike abrupty shut off. The engine turned off and so did all the electrical components. Turns out I had blown a fuse. And the cuprit was a small wire for the aux lights switch leading up to the headlight assembly that got caught between the frame and part of the headlight assembly. Apparently this had been happening a lot but nothing short cirucuited because I never used the lights. And the day I did, the wire had already been stripped due to repeated pressure from the frame and the headlight assembly contact. So as soon as the turned on wire came in contact with the frame when I parked the bike, it blew the main fuse. Thankfully I was already home. Later, I opened the fusebox and replace the fuse with a spare that was already provided with the bike and the bike started working again. I got the wiring fixed and tucked in so avoid such issues again.
+
+I also got a set of saddle stays installed but I think I lost the invoice for it. It was around 1000 rupees I think. And I paid 500 rupees for the installation of the aux lights.
 
 ## Checkup 4
 
-The plan to change the oil in Chandigarh didn't pan out due to lack of time. When I got to Srinagar, I called Honda  to ask where I could get the oil changed in my bieke. The only BigWing service center in all of Kashmir is in Jammu. They said I could get it changed at a Honda service station(Non-BigWing). I went there but was told it wouldn't be possible to chagne oil on the same day due to rush. Then I asked to buy the oil and get it chagned myself from some other shop. The Honda center refused that they can't do that. When I insisited they changed their statement and said they don't have the fully synthetic oil that my bike takes. Suffice to say, it was not a good experience.
+The plan to change the oil in Chandigarh didn't pan out due to lack of time. When I got to Srinagar, I called Honda to ask where I could get the oil changed in my bike. The only BigWing service center in all of Kashmir is in Jammu. They said I could get it changed at a Honda service station(Non-BigWing). I went there but was told it wouldn't be possible to chagne oil on the same day due to rush. Then I asked to buy the oil and get it chagned myself from some other shop. The Honda center refused that they can't do that. When I insisited, they changed their statement and said they don't have the fully synthetic oil that my bike takes. Suffice to say, it was not a good experience.
 
-A few days later when I reached Leh, I called the BigWing in Jammu again to help me find oil there. They again directed me to a Honda service center(Not BigWing). I went there and they were ready to chagne the oil but they only had 1 bottle of oil and my bike takes 2. They told me Honda doesn't really provide them with spare parts. They have to wait months and months for them. The people at service center were really helpful. They checked the oil and said I was fine to ride till Chandigarh where I could get my oil chagned. I had brought a replacement set of brakepads with me and got them replaced here. The mechanic there was really helpful and asked barely for 100 or 200 rupees for checking the oil, lubing the chain and replacing the brake pads. I was very happy with his service and gave him 500 for a job well done. I really appreciated this service center employees' kindness and polite attitude.
+A few days later when I reached Leh, I called the BigWing in Jammu again to help me find oil there. They again directed me to a Honda service center(Not BigWing). I went there and they were ready to change the oil but they only had 1 bottle of oil and my bike takes 2. They told me Honda doesn't really provide them with spare parts. They have to wait months and months for them. The people at service center were really helpful. They checked the oil and said I was fine to ride till Chandigarh where I could get my oil changed. I had brought a replacement set of brakepads with me and got them replaced here. The mechanic there was really helpful and asked barely for 100 or 200 rupees for checking the oil, lubing the chain and replacing the brake pads. I was very happy with his service and gave him 500 for a job well done. I really appreciated this service center employees' kindness and polite attitude.
 
-add photo with mechanic
+Here's a picture of my bike with the mechanic who helped me at the Honda service center in Leh.
+![Route](/assets/img/honda-review/leh.jpg)
 
 Honda really needs to sort out their service center for their bigger bikes. Especially during the touring season in Ladakh.
 
@@ -121,14 +124,13 @@ After I got home from Ladakh, I had my 4th service done, barring the oil change 
 
 ## Chain Set Replacement
 
-A few months later I got the chain set replaced. Braking didn't feel great so I also had to replace the front brake pads too. They were worn out which was surpirsing since I had gotten them changed not that long ago in Leh. Changing them did solve my braking issue and the new chain made my bike as smooth as butter. This time the mechanic also fixed the veering left issue by adjustin gsomething in the fornt suspension. I still think it might be there like a tiny tiny bit sometimes but for the most part it's gone. Ther bike never felt like it had aged much but after this service it felt brand new. I think the primary reason was the new chain set.
+A few months later I got the chain set replaced. Braking didn't feel great so I also had to replace the front brake pads too. They were worn out which was surpirsing since I had gotten them changed not that long ago in Leh. Changing them did solve my braking issue and the new chain made my bike as smooth as butter. This time the mechanic also fixed the veering left issue by adjusting something in the front suspension. I still think it might be there like a tiny tiny bit sometimes but for the most part, it's gone. The bike never felt like it had aged much but after this service it felt brand new. I think the primary reason was the new chain set.
 
-chd oil, filter extra
-veering fixed
-saddle stays less than 1000 lsot bill i think
-mh  trip
+I took the bike for a small trip to Maharashtra for a couple of days after this, and had no issues. As of writing I have close to 23000 kms on the bike and it is runnign flawlessly.
 
-rust
+## Rusting
+
+There is a lot of talk about rusting on the CB bikes these days, especially on reddit. I have had a very non-troubling experience here. I had some tiny surface level rust spots on the frame, a couple of milimeters max, nothing to worry about. I just cleaned them up and painted over them. I also had some surface level rust on the handlebar where my mobile holder had scratched off the paint and where my keys hit the handlebar. Again, not a big deal, I just cleaned and painted over those spots. Same deal with the saddle stays. The paint had rubbed off due to my saddle bags causing some surface level rust. I painted over that as well. The circumference of one of the disc brakes had some as well, but nothing on the disc itself. Very honestly, none of the rust I saw on my bike was troublesome. It was only a few tiny spots where the paint had eroded and it was only surface level. I'd almost consider this normal wear and tear. The paint quality is the issue I think. That's where improvement is needed. I even rode my bike on the beach during my latest Maharashtra trip, wading through some water but didn't face any problem. I've used this bike a lot in the past year & a half and I'm happy to say, I've had no major rust issues.
 
 ## Service Costs
 
@@ -173,6 +175,11 @@ rust
             <td>Checkup 3</td>
             <td>2246</td>
             <td>air filter, spares - brake pads, cables, oil filter</td>
+        </tr>
+        <tr>
+            <td>Misc</td>
+            <td>1500</td>
+            <td>saddle stays + aux lights(installation)</td>
         </tr>
     </tbody>
 </table>
