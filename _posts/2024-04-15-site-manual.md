@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site Manual (Start Here)
+title: Site Manual (START HERE)
 date: 2024-04-15 15:20 +0530
 pin: true
 ---
@@ -15,7 +15,7 @@ This is a repository of all the content on my website.
 
 ## Reviews
 
-* <a href = "{% post_url 2024-04-14-honda-cb350rs-review %}">My Honda CB350RS Journey</a>
+* <a href = "{% post_url 2024-04-14-honda-cb350rs-review %}">My Honda CB350RS Review</a>
 * <a href = "{% post_url 2024-04-08-raida-trailcraft-motorcycle-boots-review %}">Raida TrailCraft Motorcycle Boots</a>
 
 ## Guides
