@@ -11,6 +11,8 @@ Consider this article to be an introduction to riding gear. It's a massive rabbi
 
 <i>This article is more about what features to look out for in riding gear rather than what brand to buy. I've mentioned some brands in this article so that people who don't know any brands at all have a starting point to look stuff up. I have listed a lot more brands at the end of this article as well. Again, they are not recommendations since I have experience with only a few of them and that too with a limited number of items. Always do your own research before buying any gear.</i>
 
+<i>I have written this article with the best available information I could find at the time of writing. As technology advances, better products, testing methods and certifications will be available which will make this article out of date. Please do your own research and look for the latest available information when choosing riding gear.</i>
+
 ## Why you need riding gear?
 
 Riding motorcycles is dangerous. I suggest you watch this video.<br>
