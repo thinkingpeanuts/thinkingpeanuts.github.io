@@ -13,6 +13,47 @@ carousels:
     - image: /assets/img/2024_Ladakh/day_04_01.jpg
     - image: /assets/img/2024_Ladakh/day_04_02.jpg
     - image: /assets/img/2024_Ladakh/day_04_03.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_06_01.jpg
+    - image: /assets/img/2024_Ladakh/day_06_02.jpg
+    - image: /assets/img/2024_Ladakh/day_06_03.jpg
+    - image: /assets/img/2024_Ladakh/day_06_04.jpg
+    - image: /assets/img/2024_Ladakh/day_06_05.jpg
+    - image: /assets/img/2024_Ladakh/day_06_06.jpg
+    - image: /assets/img/2024_Ladakh/day_06_07.jpg
+    - image: /assets/img/2024_Ladakh/day_06_08.jpg
+    - image: /assets/img/2024_Ladakh/day_06_09.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_07_01.jpg
+    - image: /assets/img/2024_Ladakh/day_07_02.jpg
+    - image: /assets/img/2024_Ladakh/day_07_03.jpg
+    - image: /assets/img/2024_Ladakh/day_07_04.jpg
+    - image: /assets/img/2024_Ladakh/day_07_05.jpg
+    - image: /assets/img/2024_Ladakh/day_07_06.jpg
+    - image: /assets/img/2024_Ladakh/day_07_07.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_08_01.jpg
+    - image: /assets/img/2024_Ladakh/day_08_02.jpg
+    - image: /assets/img/2024_Ladakh/day_08_03.jpg
+    - image: /assets/img/2024_Ladakh/day_08_04.jpg
+    - image: /assets/img/2024_Ladakh/day_08_05.jpg
+    - image: /assets/img/2024_Ladakh/day_08_06.jpg
+    - image: /assets/img/2024_Ladakh/day_08_07.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_09_01.jpg
+    - image: /assets/img/2024_Ladakh/day_09_02.jpg
+    - image: /assets/img/2024_Ladakh/day_09_03.jpg
+    - image: /assets/img/2024_Ladakh/day_09_04.jpg
+    - image: /assets/img/2024_Ladakh/day_09_05.jpg
+    - image: /assets/img/2024_Ladakh/day_09_06.jpg
+    - image: /assets/img/2024_Ladakh/day_09_07.jpg
+    - image: /assets/img/2024_Ladakh/day_09_08.jpg
+    - image: /assets/img/2024_Ladakh/day_09_09.jpg
+    - image: /assets/img/2024_Ladakh/day_09_10.jpg
+    - image: /assets/img/2024_Ladakh/day_09_11.jpg
+    - image: /assets/img/2024_Ladakh/day_09_12.jpg
+    - image: /assets/img/2024_Ladakh/day_09_13.jpg
+    - image: /assets/img/2024_Ladakh/day_09_14.jpg
 ---
 It is one of those bucket list items for every biker in India — to ride through Ladakh. I did it in 2024, a little less than a year after I got my bike. This is the crown jewel. The magnum opus. The crème de la crème. The holy grail. This is Ladakh.
 
@@ -123,7 +164,9 @@ A few hours later we were climbing to Zoji La. Some people refer to it as 'Zojil
 
 As we came down Zoji La, the weather started to change but it was still cold. We rode through Drass which is the second coldest inhabited place in the world. Soon, from cloudy with a light drizzle, the weather was now bright and sunny. We made it to Kargil a little while later. We had carried a tent with us in hopes of finding some good camping spots and setting up our own tent for 2 or 3 days throughout the trip but we couldn't find any good spots in Kargil. And because we had started later than usual, we were already a bit late so we decided to get a hotel room. We freshened up and headed out to the market to buy a new Jio sim card and to get something to eat. We ate at this small cafe called 'Cafe Juniper'. We had some egg sandwiches which were delicious. We also got the sim card and Divyanshu got some winter wear. Turns out my post paid Jio sim did not work because I got it converted to post paid online. The shopkeeper told us only sim cards bought and verified offline work there. We had walked a lot during this and we had walked quick. As we came back to the hotel, I had a slight headache. I feel this might have been because I had not gotten enough rest and walked so much. This might have been a symptom of AMS. Divyanshu's friend, who is a trained mountaineer had advised us to not take Diamox immediately if we felt any symptoms of AMS. He told us to drink lots of water throughout the trip and take a paracetamol if we felt any symptoms which is what I did. It helped and through the rest of the trip, we did not have any issues with the altitude or breathing. With the lack of oxygen, you can get tired even if you run for 100 meters or just climb a flight of stairs. Although once you get acclimatized, it does get a little better.
 
-<iframe src="https://www.youtube.com/watch?v=zB3B0U5Z7kM" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include carousel.html height="80" unit="%" number="3" %}
+
+<iframe src="https://www.youtube.com/embed/zB3B0U5Z7kM?si=3_eQJWSH5LSIZ0xP" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 7. Kargil to Leh \| 2024.06.14
 
@@ -139,7 +182,9 @@ Soon, we were in Leh. The city felt good. We would be staying here for another d
 
 The sunrise and sunset timings in Leh, and Ladakh in general, were really something else. It would be bright and sunny starting at like 5 or 6 am and it would remain so until 7 or even 8 pm. This was a lot of daylight. It had been a long day for us. We stayed in for the night, ate some food at the hostel cafe and called it a night.
 
-<iframe src="https://www.youtube.com/watch?v=CJAs51yy7eI" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include carousel.html height="80" unit="%" number="4" %}
+
+<iframe src="https://www.youtube.com/embed/M7uwMtM1Qb0?si=o6mIws3xuRjoLLbj" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 8. Leh  \| 2024.06.15
 
@@ -150,6 +195,8 @@ The market in Leh is fantastic. It is thoughtfully built, clean, vehicle-free an
 If you're a biker, you already know what flags I'm talking about here. And if you're not, still you might have seen these on bikes and cars. They are now widely available online as well. They are widely associated with the Ladakh region and tibetian culture in general. The flags are made up of five colours, representing the five elements of nature. Blue symbolizes the sky, white symbolizes the air, red symbolizes fire, green symbolizes water, and yellow symbolizes earth. There are more interpretations that I found online. I vaguely remember reading something like - when the air runs through the flags, each flap is a prayer for safety. I am not sure which of these explanations are correct but they all seem interesting.
 
 In the evening we headed to the market again and bought a few more things like hoodies, bags and shawls. The market was much livelier in the evening and we had a great time again. A little later we went back to our hostel and got some food at the rooftop cafe. Since it was the weekend, there was a guitarist and a percussionist playing some live music which was very enjoyable. Our two days in Leh had been fantastic but it was time to head out.
+
+{% include carousel.html height="80" unit="%" number="5" %}
 
 ### Day 9. Leh to Hunder \| 2024.06.16
 
@@ -173,7 +220,9 @@ To be honest, our first impressions of Hunder were not that good. It was hot, an
 
 Since the main route to Pangong was closed we decided to go back to Leh the next day. There was an alternate route that joined the main route a bit ahead but we heard it was a rough ride. The regular route to Pangong is described as bad and this alternate route was even worse we had heard. And since it was just the two of us, we decided to head back to Leh. Another point of consideration was that since Leh - Pangong was another major tourist route, the roads were better and well maintained which turned out to be true.
 
-<iframe src="https://www.youtube.com/watch?v=c7qhkScX33Y" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include carousel.html height="80" unit="%" number="6" %}
+
+<iframe src="https://www.youtube.com/embed/c7qhkScX33Y?si=O7RvGSVdiyMdGvZ9" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 10. Hunder to Leh \| 2024.06.17
 
@@ -248,7 +297,7 @@ Another of hot highway rides. I started at 8 am. I had to douse myself with cold
 
 ### Day 17. Udaipur to Vadodara \| 2024.06.25
 
-This was the last day of my adventure. It was a bittersweet moment. The last day of a ride always is. It was more of well built highways. Somewhere along Modasa, I went off the national highway and took the state highway from here. I much prefer these roads that go through villages and small towns. Somewhere along the way, I came across a stretch of tarmac that was lined with gulmohar trees. There were orange flowers all along the sides. Soon I joined the national highway back again near Vasad. This was the last stretch. The next half hour was calm. I just rode at a normal pace and soon, I was home.
+This was the last day of my adventure. It was a bittersweet moment. The last day of a ride always is. It was more of well built highways. Somewhere along Modasa, I got off the national highway and took the state highway from here. I much prefer these roads that go through villages and small towns. Somewhere along the way, I came across a stretch of tarmac that was lined with Gulmohar trees. There were orange flowers all along the sides. Soon I joined the national highway back again near Vasad. This was the last stretch. The next half hour was calm. I just rode at a normal pace and soon, I was home.
 
 ## Some Statistics
 

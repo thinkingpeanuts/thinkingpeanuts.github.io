@@ -9,6 +9,7 @@ This is a repository of all the content on my website.
 
 ## Motorcycle Travelogues
 
+* <a href = "{% post_url 2025-03-06-the-holy-grail-ladakh %}">The Holy Grail - Ladakh</a>
 * <a href = "{% post_url 2024-03-15-exploring-the-konkan-coast %}">Exploring the Konkan Coast</a>
 * <a href = "{% post_url 2024-04-06-chasing-horizons-in-saurashtra %}">Chasing Horizons in Saurashtra</a>
 * <a href = "{% post_url 2024-04-06-weekend-ride-maheshwar-and-mandu %}">Weekend Ride to Maheshwar and Mandu</a>
