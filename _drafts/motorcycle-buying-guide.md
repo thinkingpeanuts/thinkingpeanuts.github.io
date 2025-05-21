@@ -2,9 +2,44 @@
 layout: post
 title: How to choose the right motorcycle for you
 ---
-This is how I choose a new MOTORCYCLE. This guide will help you pick the right motorcycle for you, or at least help you narrow down your choices. This might not work for everyone, but I think this is a good starting point.
+This is how I choose a new motorcycle. This guide will help you pick the right motorcycle for you, or at least help you narrow down your choices. This might not work for everyone, but I think this is a good starting point.
 
-Let me start by saying this - no one can make this choice but you, people can help, but the final decision has be to taken by you.
+Let me start by saying this - no one can make this choice but you, people can help, but the final decision has be yours.
+
+What's your purpose?
+
+I don't mean your purpose in life but rather with your motorcycle (maybe they both align?). What do you need out of your motorcycle? Do you just want to commute to your college and back? Do you want to go for long tours? Do you want to take it off-road and hit the trails? Do you want to take it to the track? Do you plan to ride solo or with a pillion? Answer these questions and you'll have an idea of the type of bike you want. Here's some of the types of bikes you can get.
+
+Retro Classic / Roadster
+
+These are your classic old school bikes with retro styling.
+Examples - Royal Enfield Classic 350, Honda CB350, TVS Ronin.
+
+Adventure
+
+These bikes, as the name suggests, are made for adventure. They have better suspension setups with longer travel, large fuel tanks and comfy seats.
+Examples - Royal Enfield Himalayan, KTM Adventure 390.
+
+Commuter
+
+Commuter bikes are simple 100cc-150cc bikes that are made for everyday commuting. They have small engines which helps them get great mileage.
+Examples - Honda Shine 100, Hero Splendor
+
+Cruiser
+
+These are similar to classic roadsters but h
+These
+Scooter
+Naked
+Faired
+Scrambler
+Cafe Racer
+
+What style of bike do you want?
+
+dont be rigid
+
+GO to bikewale etc
 
 Listen to your gut
 
@@ -14,9 +49,15 @@ Do your own research. Cross verify
 
 Set your budget
 
-What's your purpose?
 
-I don't mean your purpose in life but rather with your motorcycle (maybe they both align?). What do you need out of your motorcycle? Do you just want to commute to your college and back? Do you want to go for long tours? Do you want to take it off-road and hit the trails? Do you want to take it to the track? Do you plan to ride solo or with a pillion? Answer these questions and you'll have an idea of the type of bike you want. Here's some of the types of bike you can get.
+number of cyclinders
+
+
+
+
+special things to consider etc tall gearing
+
+What matters to you more? Mileage? Performance? Reliability?
 
 1. 
 

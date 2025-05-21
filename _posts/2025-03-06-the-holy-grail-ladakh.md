@@ -4,6 +4,15 @@ title: The Holy Grail - Ladakh
 categories:
 - travelogues
 date: 2025-03-06 18:09 +0530
+carousels:
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_01_01.jpg
+    - image: /assets/img/2024_Ladakh/day_01_02.jpg
+    - image: /assets/img/2024_Ladakh/day_01_03.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_04_01.jpg
+    - image: /assets/img/2024_Ladakh/day_04_02.jpg
+    - image: /assets/img/2024_Ladakh/day_04_03.jpg
 ---
 It is one of those bucket list items for every biker in India — to ride through Ladakh. I did it in 2024, a little less than a year after I got my bike. This is the crown jewel. The magnum opus. The crème de la crème. The holy grail. This is Ladakh.
 
@@ -64,6 +73,8 @@ Now, let's get to the actual journey.
 
 I started early at around 6 am and half an hour later, it started raining. I was riding beside the Narmada Canal so there was literally no place to hide. I kept riding and got soaked but it wasn't too bad as it was only for 15 minutes or so. It dried off on its own and I was on my way. The road along the canal is gorgeous, with trees on both sides as far as the eye can see. The sunrise looked amazing. I eventually merged on to the national highway. It was smooth sailing from here on. I reached Udaipur at around 11 am, changed and went for lunch to Millets of Mewar. They changed their location from the last time I was here, circa 2018. I had dal bati and churma made of millet(bajra). It was really good. Came back to the hostel and slept for a bit. In the evening, walked around Lake Pichola and Ambrai Ghat. It rained a little in the evening as well. I came back, ordered some food and called it a night.
 
+{% include carousel.html height="80" unit="%" number="1" %}
+
 ### Day 2. Udaipur to Jaipur\| 2024.06.09 
 
 I started a little later than I had planned but it was okay since I got some extra sleep. It's always nice to be well rested before a long ride. The ride was a little boring at first but then it got fun in the later hours. I think there might be two reasons. For one, I was riding only up to about 80 kmph, which is honestly closer to 70 kmph because speedometers have around 10% error. Straight empty highways are not fun to ride on. After a few hours, it was getting a little boring. I started to ride a little faster and was going up to 100 kmph. The highway conditions were good, there was little to no traffic and riding a little faster would mean avoiding the blazing sun of Rajasthan in the afternoon. During the later hours, for some reason, I got into this intense focus mode which made riding so much more fun. With the heat intensifying, I had to use my new cooling vest that I got from brrf. It works well in dry sunny environments. Some kids waved at me, always good to see this. In my quest to only fill fuel at Nayara, I was almost out of fuel. I was doing this to test my theory that fuel from multiple pumps reduces power and mileage. I was told this by the mechanic at my service center. I was skeptical about it and as it turns out, I was correct. Over the course of the trip, I filled up my tank from a lot different brands of petrol pumps and I saw no meaningful difference in power or mileage. 
@@ -86,6 +97,8 @@ We started at 6 am and rode around 400 kms to Patnitop, a small hill station aro
 
 We were on the highway to Jammu and then took a right near Dhalta. This is where the ride got really rough. The roads disappeared and we were following a dusty path through the mountains. The hot weather did not help. While passing through these mountainous roads, I noticed a railway bridge cutting across the skyline. I thought it would be so cool so see a Shinkansen(a Japanese Bullet Train) fly through this bridge. Just as I finished this thought, a train came roaring. It looked like one of the newer coaches like the Vande Bharat or something and it ran past the bridge at full speed. It was a cool sight. I wanted to see it go into the mountain through a tunnel and had my eye on it but a few seconds later the train had vanished and I couldn't find the tunnel as well. A few hours of twisty roads and we were back on the Jammu-Srinagar highway. Soon we made it to the Chenani Tunnel. We had booked a hotel towards the end of the tunnel in an effort ot be closer to Srinagar for the next day's ride. Turns out we had crossed Patnitop and were in a smaller town called Batote. It was amongst the hills and the views were good but there wasn't much to explore. There were a few hotels and that was it. The weather got colder and from here on we had to put on our winter clothes. We went up the hills in the evening which was a good ride along a smooth road lined with tall trees. Staying closer to Patnitop is a good idea for next time. I should have done a little more research while booking. Anyway, this was good enough for the night and we were closer to Srinagar so all good. Our prepaid sim cards had stopped working since we had entered Kashmir which was expected. What I did not expect was my post paid Jio sim card to stop working. We thought we'd get it sorted in Srinagar the next day.
 
+{% include carousel.html height="80" unit="%" number="2" %}
+
 ### Day 5. Batote to Srinagar \| 2024.06.12
 
 We were up early in the morning, ready to start our day in the early hours and get to Srinagar quick. This is when we had our first hiccup of our journey, Divyanshu's bike refused to start. The starter would just make a clicking noise and not do anything else. I'm pretty sure the starter motor wasn't moving at all. The lights and the horn were working but it wouldn't start. It was clear to me that this was some sort of a battery issue. Maybe it didn't have enough voltage or maybe it wasn't functioning well because of the cold. It was a great coincidence that we were in the hills and literally on a gradient. I saddled his bike, turned the ignition on, put the bike in the 2nd gear, pulled in the clutch and pushed off down the slope. As I got enough speed, I let go off the clutch but the bike still didn't start. I wanted to make sure my technique was right so I got on my Honda and tried the same procedure and my bike turned on. So I got on Divyanshu's Interceptor, tried again and voila, it started. We rolled down the bike to a nearby mechanic. He just looked at it, heard our story and said it's just a battery issue and maybe it got discharged. He said if we just rode the bike, it would charge the battery and we wouldn't face the issue again. It was a small town so there wasn't much else we could do. We thought we'd get going and get the bike fixed in Srinagar.
@@ -96,7 +109,7 @@ A few hours later we made it to Srinagar. It was nice and sunny. It took us a wh
 
 The weather in Srinagar was really unpredictable. It was bright and sunny in the day and in the evening the wind was in full force and it started to rain. I think beyond Srinagar, the weather was unpredictable everywhere.
 
-<iframe src="https://www.youtube.com/watch?v=vPc1RQVTvjc" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vPc1RQVTvjc?si=fJKs6Og8pARhlZpY" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 6. Srinagar to Kargil \| 2025.06.13
 
@@ -184,7 +197,7 @@ As we reached Karu, Divyanshu informed me his bike refused to start again. We co
 
 We decided to walk around Karu and get something to eat. There was a cafe exactly opposite to our homestay called 'Cafe Riwa'. It was built on a small hill where it stood out like 2 floors above ground. There was outdoor seating and indoor seating. There was a cool breeze in the atmosphere. We sat inside and got some food. The ambience on the inside was amazing. High ceilings, clean design, books and a dessert counter. We ordered some sandwiches which were good. You could see the moutains from the huge glass windows. This cafe could have easily been in a major metro city. We then got back to our room and called it a night.
 
-<iframe src="" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=v5MH0LrCPgk" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 12. Karu to Leh and back to Karu \| 2024.06.19
 
@@ -214,7 +227,7 @@ We soon reached Keylong where we would stop for the night. Keylong is another sm
 
 As we went into Keylong, we found a hotel right at the start of town called 'Hotel Gangstang'. The rooms were good, it had space for parking our bikes and the rates were economical as well. We unloaded our bikes for the umpteenth time and ordered some food. We sat outside in the lawn with some amazing views of the mountains. There were some houses up in the mountains as well. I can only imagine what it would be like to live up there. Soon our food arrived and it was delicious. We were famished. We have been riding all day. We then had some tea and relaxed. This would be the last day of the cool weather. As we go further down, it would start to get hot. With that thought, we packed our bags again, prepped for the next day and got some rest.
 
-<iframe src="" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=BRvBDpMT8YY" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 14. Keylong to Chandigarh \| 2024.06.22
 
@@ -266,6 +279,13 @@ I surprising got more mileage in the mountains than I did riding through the pla
 Unloading and loading our luggage everyday was a bit of a hassle. We had to take off bungees, undo buckles and untie straps everyday. Not to mention, carry all the luggage up to our rooms, which was a task sometimes with the lack of elevators. With the lack of oxygen, we would go out of breath sometimes. We would have to pack up all our stuff in our bags again every night. It usually took us around an hour to freshen up, get ready and load out luggage on to our bikes each morning.
 
 People have been touring Ladakh for years. Mainly on Royal Enfields. Now people also go on their 100 cc bikes, scooters and recently I read about a guy from Nashik who took his tractor to Ladakh. So access is not really limited by machine but rather by willpower and skill. I even saw a man on a bicycle with all of his luggage loaded up in the back. When we got back to our hotel in Chandigarh, a few delivery guys asked us whether their Hero Splendor can do Ladakh. We said, definitely.
+
+Some more random pictures and clips from my phone.
+
+Pictures here. include food.
+Videos here.
+
+<iframe src="https://www.youtube.com/watch?v=BRvBDpMT8YY" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Epilogue
 
