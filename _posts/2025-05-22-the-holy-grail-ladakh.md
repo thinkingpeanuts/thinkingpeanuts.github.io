@@ -73,6 +73,8 @@ carousels:
     - image: /assets/img/2024_Ladakh/day_11_06.jpg
     - image: /assets/img/2024_Ladakh/day_11_07.jpg
     - image: /assets/img/2024_Ladakh/day_11_08.jpg
+    - image: /assets/img/2024_Ladakh/day_11_09.jpg
+
   - images: 
     - image: /assets/img/2024_Ladakh/day_12_01.jpg
     - image: /assets/img/2024_Ladakh/day_12_02.jpg
