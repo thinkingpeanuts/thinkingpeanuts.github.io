@@ -3,7 +3,7 @@ layout: post
 title: The Holy Grail - Ladakh
 categories:
 - travelogues
-date: 2025-03-06 18:09 +0530
+date: 2025-05-22 04:06 +0530
 carousels:
   - images: 
     - image: /assets/img/2024_Ladakh/day_01_01.jpg
