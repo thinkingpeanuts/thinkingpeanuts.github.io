@@ -79,6 +79,15 @@ carousels:
     - image: /assets/img/2024_Ladakh/day_12_04.jpg
     - image: /assets/img/2024_Ladakh/day_12_05.jpg
     - image: /assets/img/2024_Ladakh/day_12_06.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_13_01.jpg
+    - image: /assets/img/2024_Ladakh/day_13_02.jpg
+    - image: /assets/img/2024_Ladakh/day_13_03.jpg
+    - image: /assets/img/2024_Ladakh/day_13_04.jpg
+    - image: /assets/img/2024_Ladakh/day_13_05.jpg
+    - image: /assets/img/2024_Ladakh/day_13_06.jpg
+    - image: /assets/img/2024_Ladakh/day_13_07.jpg
+    - image: /assets/img/2024_Ladakh/day_13_08.jpg
 ---
 It is one of those bucket list items for every biker in India — to ride through Ladakh. I did it in 2024, a little less than a year after I got my bike. This is the crown jewel. The magnum opus. The crème de la crème. The holy grail. This is Ladakh.
 
@@ -134,6 +143,8 @@ The landscape changes quick in the north. It started with the heat in Jammu. We 
 ## A day by day account
 
 Now, let's get to the actual journey.
+
+Note - I have added some videos I captured to this blog. You can open them in YouTube and check their descriptions to find timestamps for easier viewing.
 
 ### Day 1.  Vadodara to Udaipur \| 2024.06.08 
 
@@ -295,9 +306,9 @@ We had along day ahead of us. We had to cross 4 high mountain passes, all of the
 
 On one of the bends, you'll come across a sight you probably would have never seen. Hundreds if not thousands of disposable water bottles. The story goes that years ago, a truck broke down here. There was a helper with the driver who got sick. With the truck broken down, the driver went to get some help. Upon his return he found that the helper had sadly passed away due to bad weather conditions and lack of food and water. Now travellers who pass through here offer water for the departed soul. There are other versions of the story that involve an accident. It has now become an urban legend where no one truly knows what happened.
 
-We then rode towards Baralach La, which would be our last high mountain pass. We had already crossed Pang and Sarchu which are some of the rest stops people take on their way to Leh. Both of them are small establishments with a few camps and restaurants. The roads now were bad. Construction was in progress and there were puddles of water along of the way. Even the weather got a bit gloomy. With trucks and big suvs, we got slowed down. As we made out way towards the top, the roads and the traffic got even worse. Soon we came to a water crossing. As we crossed it and climbed up, all we saw were trucks and cars lined up waiting to come down. The traffic was halted on both sides. We were at a right turn waiting and then people started to go left. I am not sure if they were direceted by the police or if just some locals decided to take an alternate route. In any casem we took the left as well which turned out to be one of the biggest adventures of the trip. The roads here were non existent. It was just a narrow gravel trail. There were frequent stretches of water since it was the afternoon and snow had started to melt. There was still snow, lots of it. We were surrouned by walls of snow, several feet in height. In some streches there was just crystal clear water above some stones small and big. This was a challeging ride. We eventually got through it and reached near the top through an alternate trail. We also came across a film shoot of sorts on the way. I vaguely remember riding beside another lake which might have been Suraj Tal. The weather was cold but there was some comfort knowing that this was the last of it. This was the last mountain pass.
+We then rode towards Baralach La, which would be our last high mountain pass. We had already crossed Pang and Sarchu which are some of the rest stops people take on their way to Leh. Both of them are small establishments with a few camps and restaurants. The roads now were bad. Construction was in progress and there were puddles of water along of the way. Even the weather got a bit gloomy. With trucks and big suvs, we got slowed down. As we made out way towards the top, the roads and the traffic got even worse. Soon we came to a water crossing. As we crossed it and climbed up, all we saw were trucks and cars lined up waiting to come down. The traffic was halted on both sides. We were at a right turn waiting and then people started to go left. I am not sure if they were direceted by the police or if just some locals decided to take an alternate route. In any casem we took the left as well which turned out to be one of the biggest adventures of the trip. The roads here were non existent. It was just a narrow gravel trail. There were frequent stretches of water since it was the afternoon and snow had started to melt. There was still snow, lots of it. We were surrouned by walls of snow, several feet in height. In some streches there was just crystal clear water above some stones small and big. At one point, while I was overtaking a truck, it's front tyre went into a big puddle and it splashed water all over me any my bike. It was a good thing I had my helmet visor closed. This was a challeging ride. We eventually got through it and reached near the top through an alternate trail. We also came across a film shoot of sorts on the way. I vaguely remember riding beside another lake which might have been Suraj Tal. The weather was cold but there was some comfort knowing that this was the last of it. This was the last mountain pass.
 
-I vividly remember riding beside another small lake with clean blue water. This was Deepak Tal. As we were coming down, the landscape changed again. And it was different this time. Shades of green started to pop up everywhere. There were still snow covered peaks but now the green in the mountains including streaks of white coming down as well. I had my visor open and the cool breeze was brushing my face. That's when I had a thought,
+I vividly remember riding beside another small lake with clean blue water. This was Deepak Tal. As we were coming down, the landscape changed again. And it was different this time. Shades of green started to pop up everywhere. There were still snow covered peaks but now the green in the mountains including streaks of white coming down as well. I had my visor open and the cool breeze was brushing my face. That's when I had a thought.
 
 We had done it. We were successful in our quest to explore the Himalayas on our own. We had traveresed mountains and crossed rivers. We had ridden through plains, meadows and some of the highest motorable roads in the world. We had conquered Ladakh. This was a different feeling. Content is one way to describe it. A better way to describe it would be pure joy. I was happy. I was smiling. This was an emotional moment. I was just riding, taking in the views. You will not believe what happened next. As I leaned through another hairpin bend and came out the other side, a rainbow appeared not too far from my eyes. For a second I couldn't believe it was really happening. But it was right there in front of my eyes. I was grinning and my joy doubled. I even pointed towards it in an effort to show it to Divyanshu. It got captured in my GoPro but I am not sure if the rainbow is clearly visible. As they say, the best moments are always reserved for your own eyes. 
 
@@ -307,9 +318,11 @@ We soon reached Keylong where we would stop for the night. Keylong is another sm
 
 As we went into Keylong, we found a hotel right at the start of town called 'Hotel Gangstang'. The rooms were good, it had space for parking our bikes and the rates were economical as well. We unloaded our bikes for the umpteenth time and ordered some food. We sat outside in the lawn with some amazing views of the mountains. There were some houses up in the mountains as well. I can only imagine what it would be like to live up there. Soon our food arrived and it was delicious. We were famished. We have been riding all day. We then had some tea and relaxed. This would be the last day of the cool weather. As we go further down, it would start to get hot. With that thought, we packed our bags again, prepped for the next day and got some rest.
 
-<iframe src="https://www.youtube.com/watch?v=BRvBDpMT8YY" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include carousel.html height="80" unit="%" number="10" %}
 
-### Day 14. Keylong to Chandigarh \| 2024.06.22
+<iframe src="https://www.youtube.com/embed/BRvBDpMT8YY?si=VSAijII-R0VM09ri" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Day 14. Keylong to Chandigarh \| 2024.06.21
 
 There was a light drizzle in the morning which accompanied us for the next few hours. The weather was pleasant though. We were still among the moutains and the views were splendid. We were going downhill for the most part. The roads were fantastic with long sweeping curves and hairpins. We crossed the Atal tunnel and were soon in Manali. We were expecting traffic at the Atal tunnel and in Manali but encountered barely any. We did find some traffic in Manali but were able to filter through lanes and get ahead. Manali gets crowded this time of the year. The traffic in the opposite direction was intense. I had noticed there was always more traffic in the opposite direction all along the Leh - Manali highway.
 
@@ -318,15 +331,15 @@ As we crossed Manali, the temperature was slowing climbing. I was still wearing 
 In the evening, we set out on foot to get something to eat. Ironically, it was now, in the same city that we had started, that we realised how far we had come. We had ridden thousands of kilometers in the last few days. Seen landscapes we had just seen on the internet before, rode through some amazing towns, eaten delicious food, met amazing people, and been one with nature in a way that just isn't possible in our daily lives. It had been amazing. A trip for the ages.
 
 
-### Day 15. Chandigarh to Jaipur \| 2024.06.23
+### Day 15. Chandigarh to Jaipur \| 2024.06.22
 
 Once again, we were up early. We had to cover a lot of distance today. Divyanshu had decided to ride all the way to his home in Srinagar, Uttarakhand. It would be a long ride but with our experience of riding on average 10 hours a day, it did not feel daunting. However, it would be a tough ride as he had to ride through mountains again. I, on the other hand, had  to ride on straight empty highways from here on. I had to cover a little over 500 kms to Jaipur. On another day it would just be a normal day's ride but it was hot right now. The heat made the ride uncomfortable. While I had gotten enough sleep the day before, an hour into the ride, I felt sleepy again. I stopped at a store and got an energy drink, a can of Monster. While I have had this belief that caffiene never affected me, this day I was wrong. Or maybe it was just placebo, I don't know. Whatever it was, I was much more aware and was feeling better after having the drink. It had helped a lot. However it did not do anything for the heat. I had to wet my cooling vest multiple times throughout the day. Eventually after a hard ride, I made it to Jaipur. Divyanshu had reached home around the same time as well. I didn't do anything when I got to the hotel. Just stayed in my room, ordered food and got some rest.
 
-### Day 16. Jaipur to Udaipur \| 2024.06.24
+### Day 16. Jaipur to Udaipur \| 2024.06.23
 
 Another of hot highway rides. I started at 8 am. I had to douse myself with cold water multiple times during the day to combat the heat. Later I just started pouring cold water on my face with the visor open. It was a bit couldy but there was no rain. With the sun hidden in the clouds my cooling vest was not working well so I took it out and resorted to dousing cold water onto my jacket directly. Once again, despite enough sleep, I felt drowsy. I bought a red bull trying to recreate the effects of yesterday. It did not work. I was still just as sleepy. I decided to take some rest at a roadside shop. Maybe the caffiene was placebo after all. Caffiene is used widely so it must have scientific research behind. Maybe I need to experiment a little. I thought it would affect me profoundly since I did not consume it regularly. Infact these are the only two instances I can remember in my life where I drank an entire can of any energy drink. In any case, with multiple breaks and rest stops, I finally made it to Udaipur. In the evening, I strolled around Ambrai Ghat. I had planned to walk to Fatehsagar Lake but there were dark clouds in the sky waiting to burst. I went back to my room and in a few minutes it started raining. I ordered some food and ended my day.
 
-### Day 17. Udaipur to Vadodara \| 2024.06.25
+### Day 17. Udaipur to Vadodara \| 2024.06.24
 
 This was the last day of my adventure. It was a bittersweet moment. The last day of a ride always is. It was more of well built highways. Somewhere along Modasa, I got off the national highway and took the state highway from here. I much prefer these roads that go through villages and small towns. Somewhere along the way, I came across a stretch of tarmac that was lined with Gulmohar trees. There were orange flowers all along the sides. Soon I joined the national highway back again near Vasad. This was the last stretch. The next half hour was calm. I just rode at a normal pace and soon, I was home.
 
