@@ -31,6 +31,7 @@ carousels:
     - image: /assets/img/2024_Ladakh/day_07_05.jpg
     - image: /assets/img/2024_Ladakh/day_07_06.jpg
     - image: /assets/img/2024_Ladakh/day_07_07.jpg
+    - image: /assets/img/2024_Ladakh/day_07_08.jpg
   - images: 
     - image: /assets/img/2024_Ladakh/day_08_01.jpg
     - image: /assets/img/2024_Ladakh/day_08_02.jpg
@@ -54,6 +55,30 @@ carousels:
     - image: /assets/img/2024_Ladakh/day_09_12.jpg
     - image: /assets/img/2024_Ladakh/day_09_13.jpg
     - image: /assets/img/2024_Ladakh/day_09_14.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_10_01.jpg
+    - image: /assets/img/2024_Ladakh/day_10_02.jpg
+    - image: /assets/img/2024_Ladakh/day_10_03.jpg
+    - image: /assets/img/2024_Ladakh/day_10_04.jpg
+    - image: /assets/img/2024_Ladakh/day_10_05.jpg
+    - image: /assets/img/2024_Ladakh/day_10_06.jpg
+    - image: /assets/img/2024_Ladakh/day_10_07.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_11_01.jpg
+    - image: /assets/img/2024_Ladakh/day_11_02.jpg
+    - image: /assets/img/2024_Ladakh/day_11_03.jpg
+    - image: /assets/img/2024_Ladakh/day_11_04.jpg
+    - image: /assets/img/2024_Ladakh/day_11_05.jpg
+    - image: /assets/img/2024_Ladakh/day_11_06.jpg
+    - image: /assets/img/2024_Ladakh/day_11_07.jpg
+    - image: /assets/img/2024_Ladakh/day_11_08.jpg
+  - images: 
+    - image: /assets/img/2024_Ladakh/day_12_01.jpg
+    - image: /assets/img/2024_Ladakh/day_12_02.jpg
+    - image: /assets/img/2024_Ladakh/day_12_03.jpg
+    - image: /assets/img/2024_Ladakh/day_12_04.jpg
+    - image: /assets/img/2024_Ladakh/day_12_05.jpg
+    - image: /assets/img/2024_Ladakh/day_12_06.jpg
 ---
 It is one of those bucket list items for every biker in India — to ride through Ladakh. I did it in 2024, a little less than a year after I got my bike. This is the crown jewel. The magnum opus. The crème de la crème. The holy grail. This is Ladakh.
 
@@ -232,6 +257,8 @@ We reached Leh soon and checked into our Hotel. We had booked a room at 'Royal H
 
 We came back to the hotel but immediately went out again to get Divyanshu's saddle bag repaired. He tore through some of the stitches while riding through the traffic near the Army post when he snagged a side to a bus. We go it mended by a local cobbler. While getting the bag fixed we met some Israeli tourists who were on their way back out of the Ladakh. I asked them about their experience and one of them said, "You guys are living in paradise." We then got some food at a restaurant and came back to the hotel. We didn't have any regrets coming back to Leh. We were actually looking forward to it since we had such a blast the last time we were there. It turned out to be a great decision. The ride was good, we had some good food and got relax some more as well. 
 
+{% include carousel.html height="80" unit="%" number="7" %}
+
 ### Day 11. Leh to Pangong Tso and back to Karu \| 2024.06.18
 
 We started our ride to Pangong Tso at around 7 am. The climb to Chang La top was a little tough as the roads were narrow but nothing too difficult. One thing to note was that the entrie stretch from Leh to Pangong has fantastic roads. We reached Pangong in around 5 hours.
@@ -244,17 +271,21 @@ On our way back we stopped near Tangste and got something to eat. Then we rode t
 
 As we reached Karu, Divyanshu informed me his bike refused to start again. We could still push and jump start his bike but we needed to fix this issue. I went out to find a mechanic in Karu. I did find one but he said since it's an Interceptor, he would be unable to fix it and it was best to get the bike to Leh. I then remembered there was a camp setup by Royal Enfield here for travellers. I went there but tehre were no mechanics there, only some refreshments and a small area for people to rest. Our plan was to ride through 4 high altitude passes and some rough roads on our way to Manali so we needed the bikes to be in top condition. We decided to stay the night at Karu where we were already in standing in front of a homestay called 'Tatsang Guest House'. We took a room there and decided to ride to Leh the next morning to get his bike fixed. The rooms were nice and simple, with space for parking out front. The owners were polite as well. Leh was barely 20 minutes away from Karu and we were already at a decline so that would help us start his bike. In hindsight, we were fortunate in terms of where the bike broke down and the routes we decided to take. Everything had worked out in our favour. As cliche as it sounds, everything does happen for the best.
 
-We decided to walk around Karu and get something to eat. There was a cafe exactly opposite to our homestay called 'Cafe Riwa'. It was built on a small hill where it stood out like 2 floors above ground. There was outdoor seating and indoor seating. There was a cool breeze in the atmosphere. We sat inside and got some food. The ambience on the inside was amazing. High ceilings, clean design, books and a dessert counter. We ordered some sandwiches which were good. You could see the moutains from the huge glass windows. This cafe could have easily been in a major metro city. We then got back to our room and called it a night.
+We decided to walk around Karu and get something to eat. There was a cafe exactly opposite to our homestay called 'Cafe Riwo'. It was built on a small hill where it stood out like 2 floors above ground. There was outdoor seating and indoor seating. There was a cool breeze in the atmosphere. We sat inside and got some food. The ambience on the inside was amazing. High ceilings, clean design, books and a dessert counter. We ordered some sandwiches which were good. You could see the moutains from the huge glass windows. This cafe could have easily been in a major metro city. We then got back to our room and called it a night.
 
-<iframe src="https://www.youtube.com/watch?v=v5MH0LrCPgk" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include carousel.html height="80" unit="%" number="8" %}
+
+<iframe src="https://www.youtube.com/embed/v5MH0LrCPgk?si=tVDcsKpLy3L4Hb4M" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Day 12. Karu to Leh and back to Karu \| 2024.06.19
 
 In the morning, we jump started the bike and rode to Leh. We were there early in the morning at around 8:30 am. The service center was not even officially open yet. The Royal Enfield service center in Leh is cramped and crowded. People were being told to wait 2-3 days for even normal check ups. As we were early and we had already been there a few days prior, we got our bike in the garage. I am not sure of this but I think there was only one technician that was trained to handle 650cc bikes. An hour or so later, it was our turn. They guy openend everything up and his first impression was a bad battery. We told him we had replaced it just a week or so ago. Then they said it could be a problem with the RR unit(Regulator-Rectifier) which I found out was responsible for charging the battery. He started replacing it and we sat outside waiting. The plan was to get it fixed and be on our way towards Manali soon. A couple of hours later and the bike was still lying dormant. The mechanic had been at it all day but it was still not working. Eventually at around 1 pm, he finished replacing the RR unit. The bike still would not start. He suspected the battery might be low on voltage and jump started the bike using another battery. It worked. The bike was running and we left it at idle to charge the battery. A few minutes later we tried to turn it on using its own battery but it wouldn't start again. The mechanic said it's a bad battery. They checked the voltage and stuff using an OBD device. So we took the battery to get it replaced at the Amaron store, which wasn't very far. The guy checked the battery and said the voltage was fine. He then used some other tool which shows smoke and smells if the battery is bad. I didn't see anything bad and neither did he say something but then he called someone an asked if he could issue a replacement as the battery was smoking and smelling. Our replacement was approved. Usually it takes 24 hours to get a replacement but since we had to leave, the shopkeeper gave it to us instantly. He was really helpful. We got the battery back to the garage and got it replaced. The bike was now fixed. One thing I didn't like about the Interceptor's design is how you need to remove both side panels and the seat to access the battery. Also replacing the RR unit requires you to remove the entire rear wheel and a lot more. I don't know if this is the case for all bikes but I know for a fact that batteries can be mounted on just one side for easy access. In any case, I think they could have designed the bike better and diagnosed the issue better. I was still not sure they had found the problem and fixed it. For one, both the batteries showed the same voltage in the OBD reader. And it was odd that the new battery would die so soon. Maybe the bad RR unit killed it. Even the Amaron guy said the voltage was fine and while he did mention smoke and smell, it might have been to get us a replacement. Maybe it was the RR unit and the bike was truly fixed but I wasn't sure and that was what didn't sit well with me. To wait for a few days and see if the bike broke down or kept working is not a great way to be sure of the mechanic's work. Especially since we still had a lot of moutains to cover. If they had showed us, without a shadow of doubt, that this RR unit was failing maybe with some numbers then I would been assured. What it felt like they were doing was, changing things and hoping they swapped out the bad part. Nothing we saw told us it was a bad battery or a bad RR unit. What I learned from this fisasco is that I really need to learn how to diagnose and fix bikes. Months later, as I write this, Divyanshu's battery gave up again in March of 2025. I am still not sure what the issue is and neither are the guys at Royal Enfield. Now back to the story. 
 
-The bike was working now but it was 5 pm by the time we got it out of the garage. We couldn't leave now as it was too late. We decided to stay the night in Karu where we stayed the day before and leave early in the morning. We went back to the same homestay and took the same room. There was an odd sense of comfort there maybe since we had already stayed there before or maybe because we had the bike fixed now. The innkeeper brought us some tea and said we could have just kept the bags there and gone and got the bike fixed. Another example of the Ladakhi hospitality. It had been a long day. We got some food and called it a night.
+The bike was working now but it was 5 pm by the time we got it out of the garage. We couldn't leave now as it was too late. We decided to stay the night in Karu where we stayed the day before and leave early in the morning. We went back to the same homestay and took the same room. There was an odd sense of comfort there maybe since we had already stayed there before or maybe because we had the bike fixed now. The innkeeper brought us some tea and said we could have just kept the bags there and gone and got the bike fixed. Another example of Ladakhi hospitality. It had been a long day. We got some food and called it a night.
 
-Now that I think about it, sitting outside that garage all day was kinda fun and not at all boring. I honestly wasn't really worried that we were late and we'd miss a day or anything. We were just sitting outside, talking to each other, talking to people, laying down, looking at bikes, looking at the military helicopters flying around, joking and having fun. It was a good experience.
+Now that I think about it, sitting outside that garage all day was kinda fun and not at all boring. I honestly wasn't really worried that we were late and we'd miss a day or anything. We were just sitting outside, talking to each other, talking to people, laying down, looking at bikes, looking at the military helicopters flying around, joking and having fun. We even saw a heavily modified Himalayan with dual round headlights which looked very cool. It was a good experience.
+
+{% include carousel.html height="80" unit="%" number="9" %}
 
 ### Day 13. Karu to Keylong \| 2024.06.20
 
