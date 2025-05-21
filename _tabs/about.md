@@ -5,7 +5,7 @@ order: 4
 ---
 
 Hey, thanks for reading.
-I am Rinoy and I write about motorcycle stuff.<br>
+I'm Rinoy and I write about motorcycles & travel.<br>
 Feedback/suggestions welcome.<br>
 If you want to get in touch, feel free to text me on any of the platforms below.
 
