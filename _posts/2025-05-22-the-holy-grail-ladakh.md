@@ -103,7 +103,7 @@ It is one of those bucket list items for every biker in India — to ride throug
 
 The seed was sown before I even laid eyes on my motorcycle. I think it exists in some capacity in almost every biker in India. It is a rider's paradise. It is challenging and tough but it rewards you in a way that no other experience can. Ladakh needs focus, commitment and will. You need to adapt to the ever-changing weather and varied riding surfaces. But if you go through it all and prevail, the feeling is unmatched.  
 
-You can skip directly to the trip details by clicking <a href="#a-day-by-day-account">here.</a>
+<i>You can jump directly to the trip details by clicking <a href="#a-day-by-day-account">here.</a></i>
 
 ## The Planning Phase
 
