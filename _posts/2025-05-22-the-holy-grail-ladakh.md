@@ -103,7 +103,7 @@ Riding through Ladakh is almost a rite of passage for bikers in India. Okay that
 
 Here is how my journey went.
 
-Contents<br>
+<b>Table of Contents</b><br>
 <a href="#the-planning-phase">The Planning Phase</a><br>
 <a href="#the-route-dilemma">The Route Dilemma</a><br>
 <a href="#preparations-galore">Preparations Galore</a><br>
