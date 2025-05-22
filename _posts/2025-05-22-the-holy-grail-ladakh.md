@@ -104,15 +104,52 @@ Riding through Ladakh is almost a rite of passage for bikers in India. Okay that
 Here is how my journey went.
 
 <b>Table of Contents</b><br>
-<a href="#the-planning-phase">The Planning Phase</a><br>
-<a href="#the-route-dilemma">The Route Dilemma</a><br>
-<a href="#preparations-galore">Preparations Galore</a><br>
-<a href="#opinions-infinite">Opinions Infinite</a><br>
-<a href="#landscapes-of-the-north">Landscapes of the North</a><br>
-<a href="#a-day-by-day-account">A day-by-day Account</a><br>
-<a href="#some-statistics">Some Statistics</a><br>
-<a href="#miscellaneous-thoughts">Miscellaneous Thoughts</a><br>
-<a href="#epilogue">Epilogue</a><br>
+<ul>
+  <li>
+    <a href="#the-planning-phase">The Planning Phase</a><br>
+  </li>
+  <li>
+    <a href="#the-route-dilemma">The Route Dilemma</a><br>
+  </li>
+  <li>
+    <a href="#preparations-galore">Preparations Galore</a><br>
+  </li>
+  <li>
+    <a href="#opinions-infinite">Opinions Infinite</a><br>
+  </li>
+  <li>
+    <a href="#landscapes-of-the-north">Landscapes of the North</a><br>
+  </li>
+  <li>
+    <a href="#a-day-by-day-account">A day-by-day Account</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-1-vadodara-to-udaipur--20240608">Day 1. Vadodara to Udaipur</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-2-udaipur-to-jaipur--20240609">Day 2. Udaipur to Jaipur</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-3-jaipur-to-chandigarh--20240610">Day 3. Jaipur to Chandigarh</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-4-chandigarh-to-batote--20240611">Day 4. Chandigarh to Batote</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-5-batote-to-srinagar--20240612">Day 5. Batote to Srinagar</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-6-srinagar-to-kargil--20250613">Day 6. Srinagar to Kargil</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-7-kargil-to-leh--20240614">Day 7. Kargil to Leh</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-8-leh---20240615">Day 8. Leh</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-9-leh-to-hunder--20240616">Day 9. Leh to Hunder</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-10-hunder-to-leh--20240617">Day 10. Hunder to Leh</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-11-leh-to-pangong-tso-and-back-to-karu--20240618">Day 11. Leh to Pangong Tso and back to Karu</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-12-karu-to-leh-and-back-to-karu--20240619">Day 12. Karu to Leh and back to Karu</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-13-karu-to-keylong--20240620">Day 13. Karu to Keylong</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-14-keylong-to-chandigarh--20240621">Day 14. Keylong to Chandigarh</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-15-chandigarh-to-jaipur--20240622">Day 15. Chandigarh to Jaipur</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-16-jaipur-to-udaipur--20240623">Day 16. Jaipur to Udaipur</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="#day-17-udaipur-to-vadodara--20240624">Day 17. Udaipur to Vadodara</a><br>
+  </li>
+  <li>
+    <a href="#some-statistics">Some Statistics</a><br>
+  </li>
+  <li>
+    <a href="#miscellaneous-thoughts">Miscellaneous Thoughts</a><br>
+  </li>
+  <li>
+    <a href="#epilogue">Epilogue</a><br>
+  </li>
+</ul>
 
 ## The Planning Phase
 
@@ -162,13 +199,13 @@ Now, let's get to the actual journey.
 
 <i>Note - I have added some videos I captured to this blog. You can open them in YouTube and check their descriptions to find timestamps for easier viewing.</i>
 
-### Day 1.  Vadodara to Udaipur \| 2024.06.08 
+### Day 1. Vadodara to Udaipur \| 2024.06.08 
 
 I started early at around 6 am and half an hour later, it started raining. I was riding beside the Narmada Canal so there was literally no place to hide. I kept riding and got soaked but it wasn't too bad as it was only for 15 minutes or so. It dried off on its own and I was on my way. The road along the canal is gorgeous, with trees on both sides as far as the eye can see. The sunrise looked amazing. I eventually merged on to the national highway. It was smooth sailing from here on. I reached Udaipur at around 11 am, changed and went for lunch to Millets of Mewar. They changed their location from the last time I was here, circa 2018. I had dal bati and churma made of millet(bajra). It was really good. Came back to the hostel and slept for a bit. In the evening, walked around Lake Pichola and Ambrai Ghat. It rained a little in the evening as well. I came back, ordered some food and called it a night.
 
 {% include carousel.html height="80" unit="%" number="1" %}
 
-### Day 2. Udaipur to Jaipur\| 2024.06.09 
+### Day 2. Udaipur to Jaipur \| 2024.06.09 
 
 I started a little later than I had planned but it was okay since I got some extra sleep. It's always nice to be well rested before a long ride. The ride was a little boring at first but then it got fun in the later hours. I think there might be two reasons. For one, I was riding only up to about 80 kmph, which is honestly closer to 70 kmph because speedometers have around a 10% error. Straight empty highways are not fun to ride on. After a few hours, it was getting a little boring. I started to ride a little faster and was going up to 100 kmph. The highway conditions were good, there was little to no traffic and riding a little faster would mean avoiding the blazing sun of Rajasthan in the afternoon. During the later hours, for some reason, I got into this intense focus mode which made riding so much more fun. With the heat intensifying, I had to use my new cooling vest that I got from brrf. It works well in dry sunny environments. Some kids waved at me, always good to see this. In my quest to only fill fuel at Nayara, I was almost out of fuel. I was doing this to test my theory that fuel from multiple pumps reduces power and mileage. I was told this by the mechanic at my service center. I was sceptical about it and as it turns out, I was correct. Over the course of the trip, I filled up my tank from a lot different brands of petrol pumps and I saw no meaningful difference in power or mileage. 
 
