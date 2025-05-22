@@ -105,7 +105,7 @@ The idea of riding to Ladakh took root before I even owned a motorcycle. I think
 
 Here is how my journey went.
 
-<i>You can jump directly to the trip details by clicking <a href="#a-day-by-day-account">here.</a></i>
+<i>Note - You can jump directly to the trip details by clicking <a href="#a-day-by-day-account">here.</a></i>
 
 ## The Planning Phase
 
