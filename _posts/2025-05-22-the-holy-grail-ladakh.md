@@ -99,7 +99,7 @@ carousels:
     - image: /assets/img/2024_Ladakh/landscapes/land_5.jpg
     - image: /assets/img/2024_Ladakh/landscapes/land_6.jpg
 ---
-Riding through Ladakh is almost a rite of passage for bikers in India. Okay that's a bit dramatic but it is on the bucket list of many riders in India. It was on mine as well. I did it in 2024, a little less than a year after I got my bike. The idea of it took root before I even owned a motorcycle. I think it exists in almost every biker in India. It is a rider's paradise - demanding but deeply rewarding. The terrain and weather push you, and adapting is part of the journey. It asks for focus and resilience. But if you make it through, the feeling is unmatched.
+Riding through Ladakh is almost a rite of passage for bikers in India. Okay that's a bit dramatic but it is on the bucket list of many riders in India. It was on mine as well. I did it in 2024, a little less than a year after I got my bike. The idea of it took root before I even owned a motorcycle. I think it exists in almost every biker in India. It is a rider's paradise - demanding but deeply rewarding. The terrain and weather push you, and adapting is part of the journey. It asks for focus and resilience. But if you make it through, the feeling is hard to match.
 
 Here is how my journey went.
 
