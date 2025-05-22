@@ -99,13 +99,20 @@ carousels:
     - image: /assets/img/2024_Ladakh/landscapes/land_5.jpg
     - image: /assets/img/2024_Ladakh/landscapes/land_6.jpg
 ---
-Riding through Ladakh is almost a rite of passage for bikers in India. I did it in 2024, a little less than a year after I got my bike.
-
-The idea of riding to Ladakh took root before I even owned a motorcycle. I think it exists in almost every biker in India. It is a rider's paradise - demanding but deeply rewarding. The terrain and weather push you, and adapting is part of the journey. It asks for focus and resilience. But if you make it through, the feeling is unmatched.
+Riding through Ladakh is almost a rite of passage for bikers in India. Okay that's a bit dramatic but it is on the bucket list of many riders in India. It was on mine as well. I did it in 2024, a little less than a year after I got my bike. The idea of it took root before I even owned a motorcycle. I think it exists in almost every biker in India. It is a rider's paradise - demanding but deeply rewarding. The terrain and weather push you, and adapting is part of the journey. It asks for focus and resilience. But if you make it through, the feeling is hard to match.
 
 Here is how my journey went.
 
-<i>You can jump directly to the trip details by clicking <a href="#a-day-by-day-account">here.</a></i>
+Contents<br>
+<a href="#the-planning-phase">The Planning Phase</a><br>
+<a href="#the-route-dilemma">The Route Dilemma</a><br>
+<a href="#preparations-galore">Preparations Galore</a><br>
+<a href="#opinions-infinite">Opinions Infinite</a><br>
+<a href="#landscapes-of-the-north">Landscapes of the North</a><br>
+<a href="#a-day-by-day-account">A day-by-day Account</a><br>
+<a href="#some-statistics">Some Statistics</a><br>
+<a href="#miscellaneous-thoughts">Miscellaneous Thoughts</a><br>
+<a href="#epilogue">Epilogue</a><br>
 
 ## The Planning Phase
 
@@ -149,7 +156,7 @@ The landscape changes quick in the north. It started with the heat in Jammu. We 
 
 {% include carousel.html height="80" unit="%" number="11" %}
 
-## A day by day account
+## A day-by-day Account
 
 Now, let's get to the actual journey.
 
@@ -371,10 +378,10 @@ This was the last day of my adventure. It was a bittersweet moment. The last day
 </tbody>
 </table>
 
-The lodging costs came out to around 15,000 rupees for 16 nights of stay. This total is just for myself. To land at this number, I split the costs in half where I stayed with my friend and added costs of my solo stays. I missed logging some fuel stops so with the numbers I got from my instrument cluster, I might have used around 137 litres of petrol. Assuming an average price of 100 rupees per litre, the fuel costs come out to 13,700 rupees. I don't have an exact figure of food costs but I think they must've been around 500 per day for me.
+The lodging costs came out to around 15,000 rupees for 16 nights of stay. This total is just for myself. To land at this number, I split the costs in half where I stayed with my friend and added costs of my solo stays. I missed logging some fuel stops so with the numbers I got from my instrument cluster, I might have used around 137 litres of petrol. Assuming an average price of 100 rupees per litre, the fuel costs come out to 13,700 rupees. I don't have an exact figure of food costs but I think they must've been around 500 per day for me. There are some upfront costs too - spare parts for the bike, waterproof socks, medicines, riding gear and a few other things.
 
 
-## Miscellaneous thoughts
+## Miscellaneous Thoughts
 
 I surprisingly got more mileage in the mountains than I did riding through the plains reaching to the mountains. I was averaging maybe around 33 till I got to the mountains. It was partly because I rode faster than usual on the highways getting there. From here I rode at a more economical pace all the way through the mountains and back home. I did experience a tiny drop in power at some of the high passes but never was it a problem. The bike performed flawlessly in all conditions, on all surfaces.
 
