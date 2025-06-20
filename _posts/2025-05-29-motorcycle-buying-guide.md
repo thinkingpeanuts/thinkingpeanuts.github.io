@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to choose the right motorcycle for you
+date: 2025-05-29 04:20 +0530
 ---
 This guide will help you pick the right motorcycle for you, or at least help you narrow down your choices. This might not work for everyone, but I think this is a good starting point.
 
