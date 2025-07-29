@@ -239,8 +239,6 @@ A few hours later we made it to Srinagar. It was nice and sunny. It took us a wh
 
 The weather in Srinagar was really unpredictable. It was bright and sunny in the day and in the evening the wind was in full force and it started to rain. I think beyond Srinagar, the weather was unpredictable everywhere.
 
-<iframe src="https://www.youtube.com/embed/vPc1RQVTvjc?si=fJKs6Og8pARhlZpY" style="width: 100%; max-width: 500px; aspect-ratio: 16/9; border: none;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Day 6. Srinagar to Kargil \| 2025.06.13
 
 Come next morning, we were all ready and packed up but the Interceptor refused to start again. We had to get it fixed now. We would be crossing Zoji La today and finding a mechanic on the way would be very difficult if something went wrong. Not to mention if the bike broke down in traffic riding through the high passes, it would add another layer of difficulty. Unlucky for us, the gradient here was not as steep. Both of us, all geared up and bikes loaded, thought to wait a little for the garages to open. We found a mechanic on Google Maps and he agreed to check out bike. I asked my friend to get on his bike and started pushing. We got up to speed and he let go off the clutch but the bike did not start. We tried and failed a few more times. It was difficult to run in full gear, especially will full height riding shoes. We got the luggage off of his bike and tried again. This time a local man got out of his car and helped us push it. That did it, the bike started. We thanked him and went off on our way to the mechanic. 

@@ -93,7 +93,7 @@ Lots of updates since I origianlly wrote this review. Starting with the power an
 
 ## Checkup 3
 
-In June of 2024, I was preparing for a trip to Ladakh. The plan was to ride from Gujarat to Ladakh and back. Before the trip, I got my bike checked. There were no issues with the bike. I did get the air filter changed and bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
+In June of 2024, I was preparing for a trip to Ladakh. The plan was to <a href = "{% post_url 2025-05-22-the-holy-grail-ladakh %}">ride from Gujarat to Ladakh and back</a>. Before the trip, I got my bike checked. There were no issues with the bike. I did get the air filter changed and bought spare parts for my upcoming trip - spare sets of brake pads, throttle and clutch cables and an oil filter. There was still time for an oil change so I thought I'd get it changed in Chandigarh or Leh.
 
 I also got some aux lights installed, specifically the Maddog Scout X. While the installtion was good and the lights functioned well, I had an issue one day when I parked the bike to open the gate. The bike was on and so were the lights. As soon as I turned the handle bar to the left and park it on the side stand, the bike abrupty shut off. The engine turned off and so did all the electrical components. Turns out I had blown a fuse. And the cuprit was a small wire for the aux lights switch leading up to the headlight assembly that got caught between the frame and part of the headlight assembly. Apparently this had been happening a lot but nothing short cirucuited because I never used the lights. And the day I did, the wire had already been stripped due to repeated pressure from the frame and the headlight assembly contact. So as soon as the turned on wire came in contact with the frame when I parked the bike, it blew the main fuse. Thankfully I was already home. Later, I opened the fusebox and replace the fuse with a spare that was already provided with the bike and the bike started working again. I got the wiring fixed and tucked in so avoid such issues again.
 
@@ -112,7 +112,9 @@ Honda really needs to sort out their service center for their bigger bikes. Espe
 
 ## Riding in Ladakh
 
-The bike performed flawlessly through the whole trip. I did experience some loss of power but that is expected due to lack of oxygen at high altitudes. The bike staerted up every morning and surprising it gave me even better mileage than flats on some days. I think it was because I was driving slower in the mountains.
+The bike performed flawlessly through the whole trip. I did experience some loss of power but that is expected due to lack of oxygen at high altitudes. The bike started up every morning and surprising it gave me even better mileage than flats on some days. I think it was because I was driving slower in the mountains.
+
+Full Ladakh Travelogue - <a href = "{% post_url 2025-05-22-the-holy-grail-ladakh %}">The Holy Grail - Ladakh</a>
 
 ## Service 4 Part 1
 
