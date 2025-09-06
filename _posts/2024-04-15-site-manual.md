@@ -21,5 +21,6 @@ This is a repository of all the content on my website.
 
 ## Guides
 
+* <a href = "{% post_url 2025-09-06-how-to-pick-the-right-motorcycle %}">How to Pick the Right Motorcycle</a>
 * <a href = "{% post_url 2024-10-13-motorcycle-riding-gear-explained %}">Motorcycle Riding Gear Explained</a>
 * <a href = "{% post_url 2024-03-27-motorcycle-riding-gear-i-use %}">Riding Gear I Use</a>
