@@ -100,6 +100,8 @@ Always take delivery in bright daylight and check the bike thoroughly. Take your
 
 I see a lot of people are concerned about how a bike looks on them. People ask if it looks small or weird according to their body. I honestly don't get this. As long as the bike is comfortable for you to ride, and you like it, it doesn't matter how it looks with you sitting on it. I get that you want a good looking bike, that's okay but I've heard people like a certain bike visually, like riding it but not sure if they look good sitting on it. I honestly don't get it. For me, how you feel riding a bike is way more important than how you look riding it, but you do you.
 
+Another common criticism people have is that a bike is too common, you see loads of them on the road. Some people prefer to have something unique and that's okay. But a bike being common is actually a positive in my book. It means easier availability for spare parts and service.
+
 Some aspects like the top speed and the exhaust note don't really matter. Where will you hit that speed safely except a race track. If you're buying a bike for the track, then sure it matter but for most buyers it's not important. And if you're wearing a proper snug fitting helmet like you should, then the exhaust note isn't that audible to the rider anyway. Try it while taking a test ride.
 
 Another question is should you be buying a newly launched bike. My personal opinion is no. You should wait at least a couple of months so that all the small kinks and issues are sorted out and you can get some real user reviews.
