@@ -30,6 +30,22 @@ With all of this in mind, I decided now was the time to get a new car.
 
 ## Choosing a car
 
-tata altroz
+My requirements for a car were simple - safe, small, reliable, easy to own and must cost around 10 lakhs. Safety was my highest priority. I wanted the car to be 5 star rated with 6 airbags and the entire suite of safety features like ABS, EBD and more. I would be driving this car in the city 90% of the time so I wanted it to be small. I wanted it to be reliable and easy to own since I do not like service center trips. And my budget was around 10 lakhs.
+
+Initially I was only looking at hatchbacks since I wanted a small car. I had never been actively looking for a car before this point in time but I had a positive image of Tata cars in my mind. Mostly because of them prioritizing safety when no one else was doing it in the Indian car market. I also really liked the design of the Altroz and the Tiago. The more I looked into Tata cars, the more they steered me away. My primary concern was their reliability and service. I had read terrible things about Tata's reliability and service on the internet. Also I did not like the idea of having a 3 cylinder NA engine. The reliability and service concerns were honestly enough for me to stay away from Tata. I skipped over Mahindra for the same reasons. I started looking at websites to see what what cars fit my criteria. Though I didn't find the perfect fit online, I still decided to go and see what the market had to offer. I already had the Kylaq in mind but it was not out yet and test drives were not available.
+
+I started with the Suzuki Ignis. I had a bad to terrible experience at two nexa showrooms and a decent experience at the third. But I loved how it looked and it drove fantastic. It was small, it had a peppy engine and it was in my budget. What pushed me away was the lack of safety features. It only had 2 airbags and its crash rating was terrible as well. I really wanted to get a Maruti since they aer easy to live with but I could not compromise on safety.
+
+Next I tried the i10 and the i20. I liked how the i10 drove but did not like the design. With the i20, I loved the design but did not like how it drove. The same engine that felt peppy in the i10 felt lethargic and underpowered in the i20. Eventually I skipped both cause of bad safety ratings.
+
+
+## Narrowing in on the Kylaq
+
+This was just around the time when the Kylaq was announced but test drives were not available yet. I had not considered sub4m SUVs because I was initially only looking at small hatch backs. But the i20 is the same length as the Kylaq and other sub4m SUVs. The Kylaq seems perfect on paper. So I waited for the test drive. Happy to say, the test drive went very well. I loved how it drove. The engine was fantastic and the handling was incredible. I had made up my mind just after the test drive. I went and booked a Kylaq the same evening.
+
+concerns with the kylaq - service reliability
 
 safety aspectm, wouldnt even consier a scooter for family
+
+hated dealter tactics ans scams etc
+calls after buying
